@@ -1,0 +1,25 @@
+{
+  "markers": [
+    {
+      "id": "the-first-step-sog",
+      "label": "The First Step",
+      "localPosition": { "x": 118.01, "y": 583.53, "z": 90.56 },
+      "heightOffset": 0,
+      "color": "#ffd97d"
+    },
+    {
+      "id": "church-of-dragon-communion-sog",
+      "label": "Church of Dragon Communion",
+      "localPosition": { "x": -179.95, "y": 359.41, "z": 25.77 },
+      "heightOffset": 0,
+      "color": "#ffd97d"
+    },
+    {
+      "id": "church-of-elleh-sog",
+      "label": "Church of Elleh",
+      "localPosition": { "x": 93.90, "y": 722.25, "z": 91.97 },
+      "heightOffset": 0,
+      "color": "#ffd97d"
+    }
+  ]
+}

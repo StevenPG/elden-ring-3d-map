@@ -1,26 +1,19 @@
-import { useEffect, useRef } from 'react'
-import { Viewer, Ion } from 'cesium'
+import { useEffect, useRef, useState } from 'react'
+import { Viewer } from 'cesium'
 import 'cesium/Build/Cesium/Widgets/widgets.css'
-
-Ion.defaultAccessToken = import.meta.env.VITE_CESIUM_ION_TOKEN ?? ''
+import { initCesium } from './cesium/init'
 
 export default function CesiumViewer() {
   const containerRef = useRef<HTMLDivElement>(null)
   const viewerRef = useRef<Viewer | null>(null)
+  const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
     if (!containerRef.current || viewerRef.current) return
 
-    viewerRef.current = new Viewer(containerRef.current, {
-      timeline: false,
-      animation: false,
-      baseLayerPicker: false,
-      geocoder: false,
-      homeButton: false,
-      sceneModePicker: false,
-      navigationHelpButton: false,
-      fullscreenButton: false,
-    })
+    initCesium('cesiumContainer')
+      .then((viewer) => { viewerRef.current = viewer })
+      .catch((err: Error) => setError(err.message))
 
     return () => {
       viewerRef.current?.destroy()
@@ -28,5 +21,20 @@ export default function CesiumViewer() {
     }
   }, [])
 
-  return <div ref={containerRef} style={{ width: '100%', height: '100%' }} />
+  return (
+    <div style={{ width: '100%', height: '100%', position: 'relative' }}>
+      <div id="cesiumContainer" ref={containerRef} style={{ width: '100%', height: '100%' }} />
+      {error && (
+        <pre style={{
+          position: 'absolute', top: 16, left: 16,
+          background: 'rgba(0,0,0,0.8)', color: '#ff6b6b',
+          padding: '12px 16px', borderRadius: 6, maxWidth: '80%',
+          whiteSpace: 'pre-wrap', fontSize: 13,
+        }}>
+          Failed to load tileset: {error}
+          {'\n\nMake sure tiles are served over HTTP, e.g.:\n  npm run dev'}
+        </pre>
+      )}
+    </div>
+  )
 }

@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/cesiumviewer.tsx","./src/main.tsx","./src/vite-env.d.ts"],"version":"6.0.3"}
+{"root":["./src/app.tsx","./src/cesiumviewer.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/cesium/camera.ts","./src/cesium/debug.ts","./src/cesium/init.ts","./src/cesium/markers.ts","./src/cesium/scene.ts","./src/cesium/skybox.ts","./src/cesium/tileset.ts","./src/cesium/viewer.ts"],"version":"6.0.3"}

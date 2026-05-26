@@ -1,0 +1,19 @@
+{
+  "markers": {
+    "minVisibilityDistance": 0,
+    "maxVisibilityDistance": 2500
+  },
+  "camera": {
+    "home": {
+      "headingDeg": 0,
+      "pitchDeg": -45,
+      "rangeMultiplier": 2.0,
+      "target": { "x": 543.46, "y": 592.06, "z": 63.64 }
+    },
+    "limits": {
+      "minZoomMultiplier": 0.01,
+      "maxZoomMultiplier": 2.5,
+      "maxTranslationMultiplier": 2.5
+    }
+  }
+}
