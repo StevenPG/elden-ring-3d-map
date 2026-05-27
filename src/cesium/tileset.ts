@@ -30,7 +30,7 @@ function buildModelMatrix(): Matrix4 {
 
 export async function loadTileset(scene: Scene): Promise<Cesium3DTileset> {
   const tileset = await Cesium3DTileset.fromUrl(
-    './overworld_3dtiles/tileset.json',
+    `${import.meta.env.BASE_URL}overworld_3dtiles/tileset.json`,
     // Raise the error threshold so tiles don't vanish when zooming out
     { maximumScreenSpaceError: 64 }
   )

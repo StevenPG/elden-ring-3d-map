@@ -16,7 +16,7 @@ function pickRandom(): SkyboxName {
 }
 
 function buildSkyBox(name: SkyboxName): SkyBox {
-  const base = `/skyboxes/${name}/cubemap/cubemap`
+  const base = `${import.meta.env.BASE_URL}skyboxes/${name}/cubemap/cubemap`
   return new SkyBox({
     sources: {
       positiveX: `${base}_0.png`,
