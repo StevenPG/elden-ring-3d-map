@@ -8,7 +8,7 @@ import {
 
 // The tileset's bounding-box center in its local coordinate system.
 // Used to re-center the geometry before applying the ENU transform.
-const TILESET_LOCAL_CENTER = new Cartesian3(
+export const TILESET_LOCAL_CENTER = new Cartesian3(
   1462.1036376953125,
   3558.612060546875,
   2077.026123046875

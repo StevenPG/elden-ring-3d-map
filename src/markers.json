@@ -2,7 +2,7 @@
   "markers": [
     { "id": "the-first-step-sog", "label": "The First Step", "localPosition": { "x": 118.01, "y": 583.53, "z": 90.56 }, "heightOffset": 0, "color": "#ffd97d" },
     { "id": "church-of-elleh-sog", "label": "Church of Elleh", "localPosition": { "x": 93.90, "y": 722.25, "z": 91.97 }, "heightOffset": 0, "color": "#ffd97d" },
-    { "id": "gatefront-sog", "label": "Gatefront", "localPosition": { "x": -1, "y": -1, "z": -1 }, "heightOffset": 0, "color": "#ffd97d" },
+    { "id": "gatefront-sog", "label": "Gatefront", "localPosition": { "x": 152.38, "y": 1015.61, "z": 110.84 }, "heightOffset": 0, "color": "#ffd97d" },
     { "id": "waypoint-ruins-cellar-sog", "label": "Waypoint Ruins Cellar", "localPosition": { "x": -1, "y": -1, "z": -1 }, "heightOffset": 0, "color": "#ffd97d" },
     { "id": "artists-shack-limgrave-sog", "label": "Artist's Shack", "localPosition": { "x": -1, "y": -1, "z": -1 }, "heightOffset": 0, "color": "#ffd97d" },
     { "id": "third-church-of-marika-sog", "label": "Third Church of Marika", "localPosition": { "x": -1, "y": -1, "z": -1 }, "heightOffset": 0, "color": "#ffd97d" },

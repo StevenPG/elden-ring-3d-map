@@ -1,4 +1,12 @@
 {
+  "light": {
+    "direction": { "x": -0.5, "y": -0.5, "z": -1.0 },
+    "intensity": 1.5
+  },
+  "groundPlane": {
+    "localZ": -125,
+    "color": "#8fcfea"
+  },
   "markers": {
     "minVisibilityDistance": 0,
     "maxVisibilityDistance": 2500

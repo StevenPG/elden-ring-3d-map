@@ -5,11 +5,13 @@ import {
   Color,
   LabelStyle,
   Matrix4,
+  PolylineArrowMaterialProperty,
   ScreenSpaceEventHandler,
   ScreenSpaceEventType,
   VerticalOrigin,
   Viewer,
 } from 'cesium'
+import config from '../config.json'
 
 function addOriginMarker(viewer: Viewer): void {
   viewer.entities.add({
@@ -112,7 +114,52 @@ function enablePickDebug(viewer: Viewer, tileset: Cesium3DTileset): void {
   }, ScreenSpaceEventType.LEFT_CLICK)
 }
 
+function addLightGizmo(viewer: Viewer, tileset: Cesium3DTileset): void {
+  const { direction: d, intensity } = config.light
+  const dir = Cartesian3.normalize(new Cartesian3(d.x, d.y, d.z), new Cartesian3())
+
+  // A directional light has no position, so place the gizmo at center - direction * radius
+  // to show where the light "comes from".
+  const center = tileset.boundingSphere.center
+  const dist = tileset.boundingSphere.radius * 1.5
+  const lightPos = Cartesian3.add(
+    center,
+    Cartesian3.multiplyByScalar(Cartesian3.negate(dir, new Cartesian3()), dist, new Cartesian3()),
+    new Cartesian3()
+  )
+
+  viewer.entities.add({
+    position: lightPos,
+    point: {
+      pixelSize: 16,
+      color: Color.YELLOW,
+      outlineColor: Color.WHITE,
+      outlineWidth: 2,
+      disableDepthTestDistance: Number.POSITIVE_INFINITY,
+    },
+    label: {
+      text: `Light  intensity: ${intensity}\ndir  x:${d.x}  y:${d.y}  z:${d.z}`,
+      font: '12px monospace',
+      fillColor: Color.YELLOW,
+      style: LabelStyle.FILL_AND_OUTLINE,
+      outlineWidth: 2,
+      verticalOrigin: VerticalOrigin.BOTTOM,
+      pixelOffset: { x: 0, y: -20 } as never,
+      disableDepthTestDistance: Number.POSITIVE_INFINITY,
+    },
+  })
+
+  viewer.entities.add({
+    polyline: {
+      positions: [lightPos, center],
+      width: 2,
+      material: new PolylineArrowMaterialProperty(Color.YELLOW),
+    },
+  })
+}
+
 export function addDebugEntities(viewer: Viewer, tileset: Cesium3DTileset): void {
   addOriginMarker(viewer)
+  addLightGizmo(viewer, tileset)
   enablePickDebug(viewer, tileset)
 }
