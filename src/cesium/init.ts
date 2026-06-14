@@ -6,6 +6,7 @@ import { configureCameraLimits, constrainCameraPosition, positionCamera, wireHom
 import { loadMarkers } from './markers'
 import { addGroundPlane } from './groundPlane'
 import { addDebugEntities } from './debug'
+import { addDebugPanel } from './debugPanel'
 
 export async function initCesium(containerId: string): Promise<Viewer> {
   const viewer = createViewer(containerId)
@@ -22,6 +23,7 @@ export async function initCesium(containerId: string): Promise<Viewer> {
 
   if (import.meta.env.DEV) {
     addDebugEntities(viewer, tileset)
+    addDebugPanel(viewer, tileset)
   }
 
   return viewer
