@@ -23,8 +23,8 @@ export async function initCesium(containerId: string): Promise<Viewer> {
 
   if (import.meta.env.DEV) {
     addDebugEntities(viewer, tileset)
-    addDebugPanel(viewer, tileset)
   }
+  addDebugPanel(viewer, tileset)
 
   return viewer
 }
