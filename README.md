@@ -15,7 +15,7 @@ IN PROGRESS
 - **Skyboxes** — randomly selected in-game skybox environments (Gravesite Plain, Siofra River, Cerulean Coast, and others)
 - **Configurable lighting** — directional light with direction and intensity tunable from `config.json`
 - **Ground plane** — a reference plane under the geometry to anchor camera zoom and pan behavior
-- **Debug mode** — origin marker, light source gizmo, and a click-to-pick overlay showing world and local coordinates (dev only)
+- **Debug mode** — origin marker, light source gizmo, a click-to-pick overlay showing world and local coordinates, and a toggle panel for the Cesium inspectors and scene/tileset debug flags (dev only)
 
 ---
 
@@ -65,6 +65,7 @@ src/
   cesium/
     camera.ts       — camera limits, home position, pan constraints
     debug.ts        — dev-only: origin marker, light gizmo, pick overlay
+    debugPanel.ts   — dev-only: toggle panel for Cesium inspectors + debug flags
     groundPlane.ts  — flat reference plane under the tileset
     init.ts         — wires everything together
     markers.ts      — loads markers.json and places billboard pins
