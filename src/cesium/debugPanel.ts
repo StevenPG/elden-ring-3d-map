@@ -102,7 +102,10 @@ function addToggle(body: HTMLElement, key: string, label: string, apply: ToggleF
     apply(checkbox.checked)
   }
 
-  checkbox.addEventListener('change', () => sync(true))
+  checkbox.addEventListener('change', () => {
+    sync(true)
+    window.location.reload()
+  })
 
   // Restore previous session's state.
   if (localStorage.getItem(storageKey) === '1') {
