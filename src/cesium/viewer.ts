@@ -7,11 +7,15 @@ function createHiddenCreditContainer(): HTMLElement {
   return el
 }
 
-export function createViewer(containerId: string): Viewer {
+// `fullscreenElement` decides what the fullscreen button expands. It defaults
+// to the Cesium container, which would hide any overlay rendered alongside it
+// (the attribution box), so callers pass the wrapper element instead.
+export function createViewer(containerId: string, fullscreenElement?: Element): Viewer {
   Ion.defaultAccessToken = ''
 
   return new Viewer(containerId, {
     creditContainer: createHiddenCreditContainer(),
+    fullscreenElement,
     globe: false,
     skyBox: false,
     skyAtmosphere: false,

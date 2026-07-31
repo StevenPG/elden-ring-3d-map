@@ -2,8 +2,10 @@ import { useEffect, useRef, useState } from 'react'
 import { Viewer } from 'cesium'
 import 'cesium/Build/Cesium/Widgets/widgets.css'
 import { initCesium } from './cesium/init'
+import Attribution from './Attribution'
 
 export default function CesiumViewer() {
+  const rootRef = useRef<HTMLDivElement>(null)
   const containerRef = useRef<HTMLDivElement>(null)
   const viewerRef = useRef<Viewer | null>(null)
   const [error, setError] = useState<string | null>(null)
@@ -11,7 +13,7 @@ export default function CesiumViewer() {
   useEffect(() => {
     if (!containerRef.current || viewerRef.current) return
 
-    initCesium('cesiumContainer')
+    initCesium('cesiumContainer', rootRef.current ?? undefined)
       .then((viewer) => { viewerRef.current = viewer })
       .catch((err: Error) => setError(err.message))
 
@@ -22,8 +24,9 @@ export default function CesiumViewer() {
   }, [])
 
   return (
-    <div style={{ width: '100%', height: '100%', position: 'relative' }}>
+    <div ref={rootRef} style={{ width: '100%', height: '100%', position: 'relative' }}>
       <div id="cesiumContainer" ref={containerRef} style={{ width: '100%', height: '100%' }} />
+      <Attribution />
       {error && (
         <pre style={{
           position: 'absolute', top: 16, left: 16,
