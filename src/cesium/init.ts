@@ -8,8 +8,8 @@ import { addGroundPlane } from './groundPlane'
 import { addDebugEntities } from './debug'
 import { addDebugPanel } from './debugPanel'
 
-export async function initCesium(containerId: string): Promise<Viewer> {
-  const viewer = createViewer(containerId)
+export async function initCesium(containerId: string, fullscreenElement?: Element): Promise<Viewer> {
+  const viewer = createViewer(containerId, fullscreenElement)
   configureScene(viewer.scene)
 
   const tileset = await loadTileset(viewer.scene)

@@ -1,0 +1,18 @@
+The 3D Tiles tileset in this directory is a derivative of:
+
+  Title:   "Elden Ring Map"
+  Author:  JaseWorthing
+  Source:  https://www.printables.com/model/1690105-elden-ring-map
+  License: Creative Commons Attribution-NonCommercial 4.0 International
+           (CC BY-NC 4.0) — https://creativecommons.org/licenses/by-nc/4.0/
+
+Changes made: the original model was converted into a Cesium 3D Tiles tileset
+(b3dm tiles + tileset.json) for rendering in a web browser. The geometry is
+otherwise unmodified.
+
+These tiles are licensed under CC BY-NC 4.0, not under the Apache License 2.0
+that covers the source code of this repository. Any reuse must keep this
+attribution and must remain non-commercial.
+
+Elden Ring and all related assets are the property of FromSoftware and Bandai
+Namco. This is an unofficial, non-commercial fan project.
