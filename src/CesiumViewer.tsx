@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { Viewer } from 'cesium'
 import 'cesium/Build/Cesium/Widgets/widgets.css'
 import { initCesium } from './cesium/init'
+import Disclaimer from './Disclaimer'
 
 export default function CesiumViewer() {
   const rootRef = useRef<HTMLDivElement>(null)
@@ -25,6 +26,7 @@ export default function CesiumViewer() {
   return (
     <div ref={rootRef} style={{ width: '100%', height: '100%', position: 'relative' }}>
       <div id="cesiumContainer" ref={containerRef} style={{ width: '100%', height: '100%' }} />
+      <Disclaimer />
       {error && (
         <pre style={{
           position: 'absolute', top: 16, left: 16,

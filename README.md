@@ -73,6 +73,7 @@ src/
     skybox.ts       — cubemap skybox loader (random selection)
     tileset.ts      — loads the 3D Tiles tileset and applies ENU transform
     viewer.ts       — creates the Cesium Viewer instance
+  Disclaimer.tsx    — floating non-affiliation notice shown over the viewer
   markers.json      — all Sites of Grace with local coordinates and display config
   config.json       — runtime configuration (see below)
 public/
