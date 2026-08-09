@@ -1,6 +1,6 @@
-/* Floating credit box, bottom-right. The right offset clears Cesium's 29px
+/* Floating notice box, bottom-right. The right offset clears Cesium's 29px
    fullscreen button, which is pinned to the corner of the viewer. */
-.attribution {
+.disclaimer {
   position: absolute;
   right: 37px;
   bottom: 8px;
@@ -15,7 +15,7 @@
   font: 12px/1.5 system-ui, -apple-system, sans-serif;
 }
 
-.attribution__summary {
+.disclaimer__summary {
   display: flex;
   gap: 6px;
   align-items: baseline;
@@ -26,62 +26,52 @@
 
 /* Hide the native disclosure triangle in favour of the caret span, which can
    be aligned with the text baseline. */
-.attribution__summary::-webkit-details-marker {
+.disclaimer__summary::-webkit-details-marker {
   display: none;
 }
 
-.attribution__summary:hover {
+.disclaimer__summary:hover {
   color: #ffd97d;
 }
 
-.attribution__summary:focus-visible {
+.disclaimer__summary:focus-visible {
   outline: 2px solid #ffd97d;
   outline-offset: 2px;
   border-radius: 6px;
 }
 
-.attribution__caret {
+.disclaimer__caret {
   flex: none;
   font-size: 10px;
   transition: transform 120ms ease;
 }
 
-.attribution[open] .attribution__caret {
+.disclaimer[open] .disclaimer__caret {
   transform: rotate(90deg);
 }
 
-.attribution__body {
+.disclaimer__body {
   padding: 0 10px 8px;
   border-top: 1px solid rgba(232, 213, 183, 0.15);
   margin-top: 2px;
   padding-top: 8px;
 }
 
-.attribution__body p {
+.disclaimer__body p {
   margin: 0 0 6px;
 }
 
-.attribution__body p:last-child {
+.disclaimer__body p:last-child {
   margin-bottom: 0;
 }
 
-.attribution__link {
-  color: #ffd97d;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-
-.attribution__link:hover {
-  color: #ffe9ad;
-}
-
-.attribution__note {
+.disclaimer__note {
   color: rgba(232, 213, 183, 0.6);
   font-size: 11px;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .attribution__caret {
+  .disclaimer__caret {
     transition: none;
   }
 }
@@ -89,7 +79,7 @@
 /* On narrow screens the fullscreen button is the only neighbour worth
    avoiding, so sit above it and use the full width instead. */
 @media (max-width: 480px) {
-  .attribution {
+  .disclaimer {
     right: 8px;
     bottom: 37px;
     max-width: calc(100vw - 16px);

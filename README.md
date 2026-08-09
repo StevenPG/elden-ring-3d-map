@@ -73,7 +73,7 @@ src/
     skybox.ts       — cubemap skybox loader (random selection)
     tileset.ts      — loads the 3D Tiles tileset and applies ENU transform
     viewer.ts       — creates the Cesium Viewer instance
-  Attribution.tsx   — floating credit box for the source 3D model (CC BY-NC 4.0)
+  Disclaimer.tsx    — floating non-affiliation notice shown over the viewer
   markers.json      — all Sites of Grace with local coordinates and display config
   config.json       — runtime configuration (see below)
 public/
@@ -175,13 +175,11 @@ Contributions are welcome. There are some visual components that only render in 
 3. Register the name in the `SKYBOXES` array in `src/cesium/skybox.ts`
 ---
 
-## Attribution & Licensing
+## License
 
-The 3D tileset in `public/overworld_3dtiles/` is a derivative of **["Elden Ring Map"](https://www.printables.com/model/1690105-elden-ring-map)** by **JaseWorthing**, licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) — see [`LICENSE`](LICENSE).
 
-**Changes made:** the original model was converted into a Cesium 3D Tiles tileset (b3dm tiles + `tileset.json`) for rendering in a web browser. The geometry is otherwise unmodified.
-
-Because the model is licensed **NonCommercial**, this project — and any fork or deployment of it that includes the tileset — must stay non-commercial: no ads, no paywalls, no sale or commercial bundling. The tiles are covered by CC BY-NC 4.0, **not** by the Apache 2.0 license that covers this repository's source code. A copy of this notice ships alongside the tiles in `public/overworld_3dtiles/ATTRIBUTION.txt`, and the same credit is shown in-app in the collapsible box at the bottom right of the viewer (`src/Attribution.tsx`).
+You are free to use, modify, and share this project for any **noncommercial** purpose: personal study, hobby projects, private entertainment, research, and education. Commercial use — ads, paywalls, sale, or commercial bundling — requires express written permission.
 
 ---
 
