@@ -61,7 +61,8 @@ function createPanel(): { panel: HTMLElement; body: HTMLElement } {
   const body = document.createElement('div')
 
   const collapsedKey = `${STORAGE_PREFIX}collapsed`
-  let collapsed = localStorage.getItem(collapsedKey) === '1'
+  // Default to collapsed; only stay open if the user explicitly expanded it before.
+  let collapsed = localStorage.getItem(collapsedKey) !== '0'
   const render = () => {
     header.textContent = `${collapsed ? '▸' : '▾'} Debug`
     body.style.display = collapsed ? 'none' : 'block'
