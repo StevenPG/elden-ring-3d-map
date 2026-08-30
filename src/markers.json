@@ -2828,8 +2828,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-081",
-      "label": "Grace 081",
+      "id": "minor-erdtree-church",
+      "label": "Minor Erdtree Church",
       "localPosition": {
         "x": 270.53,
         "y": 4188.31,
@@ -2850,8 +2850,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-083",
-      "label": "Grace 083",
+      "id": "deathtouched-catacombs",
+      "label": "Deathtouched Catacombs",
       "localPosition": {
         "x": 283.2,
         "y": 1459.44,
@@ -2872,8 +2872,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-085",
-      "label": "Grace 085",
+      "id": "divine-tower-of-west-altus",
+      "label": "Divine Tower of West Altus",
       "localPosition": {
         "x": 339.14,
         "y": 3872.09,
@@ -2883,8 +2883,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-086",
-      "label": "Grace 086",
+      "id": "divine-tower-of-west-altus-gate",
+      "label": "Divine Tower of West Altus: Gate",
       "localPosition": {
         "x": 346.06,
         "y": 3988.94,
@@ -2905,8 +2905,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-088",
-      "label": "Grace 088",
+      "id": "saintsbridge",
+      "label": "Saintsbridge",
       "localPosition": {
         "x": 406.91,
         "y": 1411.28,
@@ -2938,8 +2938,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-091",
-      "label": "Grace 091",
+      "id": "murkwater-coast",
+      "label": "Murkwater Coast",
       "localPosition": {
         "x": 496.15,
         "y": 1115.67,
@@ -2982,8 +2982,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-095",
-      "label": "Grace 095",
+      "id": "divine-tower-of-limgrave",
+      "label": "Divine Tower of Limgrave",
       "localPosition": {
         "x": 681.98,
         "y": 1734.23,
@@ -3059,8 +3059,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-102",
-      "label": "Grace 102",
+      "id": "auriza-side-tomb",
+      "label": "Auriza Side Tomb",
       "localPosition": {
         "x": 1013.11,
         "y": 4737.91,
@@ -3092,8 +3092,8 @@
       "color": "#ff8a8a"
     },
     {
-      "id": "detected-105",
-      "label": "Grace 105",
+      "id": "smoldering-church",
+      "label": "Smoldering Church",
       "localPosition": {
         "x": 1080.64,
         "y": 1685.96,
@@ -3136,8 +3136,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-109",
-      "label": "Grace 109",
+      "id": "minor-erdtree-catacombs",
+      "label": "Minor Erdtree Catacombs",
       "localPosition": {
         "x": 1369.36,
         "y": 1747.71,
@@ -3147,8 +3147,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-110",
-      "label": "Grace 110",
+      "id": "apostate-derelict",
+      "label": "Apostate Derelict",
       "localPosition": {
         "x": 1460.5,
         "y": 6249.95,
@@ -3158,8 +3158,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-111",
-      "label": "Grace 111",
+      "id": "yelough-anix-tunnel",
+      "label": "Yelough Anix Tunnel",
       "localPosition": {
         "x": 1460.17,
         "y": 5418.23,
@@ -3169,8 +3169,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-112",
-      "label": "Grace 112",
+      "id": "forbidden-lands",
+      "label": "Forbidden Lands",
       "localPosition": {
         "x": 1473.53,
         "y": 4449.03,
@@ -3191,8 +3191,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-114",
-      "label": "Grace 114",
+      "id": "divine-tower-of-east-altus",
+      "label": "Divine Tower of East Altus",
       "localPosition": {
         "x": 1542.12,
         "y": 4077.82,
@@ -3202,8 +3202,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-115",
-      "label": "Grace 115",
+      "id": "isolated-merchants-shack-dragonbarrow",
+      "label": "Isolated Merchant's Shack (Dragonbarrow)",
       "localPosition": {
         "x": 1589.36,
         "y": 1850.73,
@@ -3235,8 +3235,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-118",
-      "label": "Grace 118",
+      "id": "ordina-liturgical-town",
+      "label": "Ordina, Liturgical Town",
       "localPosition": {
         "x": 1694.1,
         "y": 5981.78,
@@ -3268,8 +3268,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-121",
-      "label": "Grace 121",
+      "id": "hidden-path-to-the-haligtree",
+      "label": "Hidden Path to the Haligtree",
       "localPosition": {
         "x": 1790.0,
         "y": 5136.28,
@@ -3279,8 +3279,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-122",
-      "label": "Grace 122",
+      "id": "inner-consecrated-snowfield",
+      "label": "Inner Consecrated Snowfield",
       "localPosition": {
         "x": 1817.68,
         "y": 5610.55,
@@ -3301,8 +3301,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-124",
-      "label": "Grace 124",
+      "id": "consecrated-snowfield",
+      "label": "Consecrated Snowfield",
       "localPosition": {
         "x": 1824.41,
         "y": 5253.11,
@@ -3323,8 +3323,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-126",
-      "label": "Grace 126",
+      "id": "grand-lift-of-rold",
+      "label": "Grand lift of Rold",
       "localPosition": {
         "x": 1913.63,
         "y": 4902.52,
@@ -3345,8 +3345,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-128",
-      "label": "Grace 128",
+      "id": "divine-tower-of-caelid-center",
+      "label": "Divine Tower of Caelid: Center",
       "localPosition": {
         "x": 1994.92,
         "y": 1884.93,
@@ -3411,8 +3411,8 @@
       "color": "#ff8a8a"
     },
     {
-      "id": "detected-134",
-      "label": "Grace 134",
+      "id": "cave-of-the-forlorn",
+      "label": "Cave of the Forlorn",
       "localPosition": {
         "x": 2099.57,
         "y": 5796.03,
@@ -3422,8 +3422,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-135",
-      "label": "Grace 135",
+      "id": "consecrated-snowfield-catacombs",
+      "label": "Consecrated Snowfield Catacombs",
       "localPosition": {
         "x": 2099.43,
         "y": 5431.72,
@@ -3499,8 +3499,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-142",
-      "label": "Grace 142",
+      "id": "church-of-repose",
+      "label": "Church of Repose",
       "localPosition": {
         "x": 2374.18,
         "y": 4936.71,
@@ -3510,8 +3510,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-143",
-      "label": "Grace 143",
+      "id": "bestial-sanctum",
+      "label": "Bestial Sanctum",
       "localPosition": {
         "x": 2393.81,
         "y": 2441.55,
@@ -3532,8 +3532,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-145",
-      "label": "Grace 145",
+      "id": "isolated-divine-tower",
+      "label": "Isolated Divine Tower",
       "localPosition": {
         "x": 2407.83,
         "y": 3108.29,
@@ -3587,8 +3587,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-150",
-      "label": "Grace 150",
+      "id": "farum-greatbridge",
+      "label": "Farum Greatbridge",
       "localPosition": {
         "x": 2579.31,
         "y": 2200.89,
@@ -3598,8 +3598,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-151",
-      "label": "Grace 151",
+      "id": "foot-of-the-forge",
+      "label": "Foot of the Forge",
       "localPosition": {
         "x": 2607.9,
         "y": 4957.23,
@@ -3620,19 +3620,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-153",
-      "label": "Grace 153",
-      "localPosition": {
-        "x": 2647.62,
-        "y": 1128.57,
-        "z": 34.4
-      },
-      "heightOffset": 0,
-      "color": "#7dd3ff"
-    },
-    {
-      "id": "detected-154",
-      "label": "Grace 154",
+      "id": "whiteridge-road",
+      "label": "Whiteridge Road",
       "localPosition": {
         "x": 2731.89,
         "y": 5644.56,
@@ -3653,8 +3642,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-156",
-      "label": "Grace 156",
+      "id": "freezing-lake",
+      "label": "Freezing Lake",
       "localPosition": {
         "x": 2773.32,
         "y": 6098.2,
@@ -3664,8 +3653,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-157",
-      "label": "Grace 157",
+      "id": "fire-giant",
+      "label": "Fire Giant",
       "localPosition": {
         "x": 2848.4,
         "y": 4764.68,
@@ -3675,8 +3664,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-158",
-      "label": "Grace 158",
+      "id": "spiritcallers-cave",
+      "label": "Spiritcaller's Cave",
       "localPosition": {
         "x": 2910.7,
         "y": 5857.57,
@@ -3686,8 +3675,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-159",
-      "label": "Grace 159",
+      "id": "first-church-of-marika",
+      "label": "First Church of Marika",
       "localPosition": {
         "x": 3171.78,
         "y": 5568.77,
@@ -3697,8 +3686,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-160",
-      "label": "Grace 160",
+      "id": "forge-of-the-giants",
+      "label": "Forge of The Giants",
       "localPosition": {
         "x": 3171.55,
         "y": 4984.51,
