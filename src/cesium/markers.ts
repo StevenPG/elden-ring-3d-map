@@ -1,5 +1,6 @@
 import {
   BillboardCollection,
+  BlendOption,
   Cartesian2,
   Cartesian3,
   Cesium3DTileset,
@@ -9,25 +10,24 @@ import {
   LabelCollection,
   LabelStyle,
   Matrix4,
-  PinBuilder,
+  NearFarScalar,
   VerticalOrigin,
   Viewer,
 } from 'cesium'
 import markersData from '../markers.json'
 import config from '../config.json'
+import { buildGraceIcon, GRACE_ICON_HEIGHT, GRACE_ICON_WIDTH } from './graceIcon'
 
-const pinBuilder = new PinBuilder()
-const pinCache = new Map<string, HTMLCanvasElement>()
-
-function getPin(color: string): HTMLCanvasElement {
-  if (!pinCache.has(color)) {
-    pinCache.set(color, pinBuilder.fromColor(Color.fromCssColorString(color), 48))
-  }
-  return pinCache.get(color)!
-}
+const ICON_SCALE = 0.5
+const ICON_PIXEL_WIDTH = GRACE_ICON_WIDTH * ICON_SCALE
+const ICON_PIXEL_HEIGHT = GRACE_ICON_HEIGHT * ICON_SCALE
 
 export function loadMarkers(viewer: Viewer, tileset: Cesium3DTileset): void {
-  const billboards = new BillboardCollection({ scene: viewer.scene })
+  // Every grace icon is a soft glow, so skip the opaque rendering pass.
+  const billboards = new BillboardCollection({
+    scene: viewer.scene,
+    blendOption: BlendOption.TRANSLUCENT,
+  })
   const labels = new LabelCollection({ scene: viewer.scene })
   viewer.scene.primitives.add(billboards)
   viewer.scene.primitives.add(labels)
@@ -43,14 +43,20 @@ export function loadMarkers(viewer: Viewer, tileset: Cesium3DTileset): void {
     const lifted = new Cartesian3(x, y, z + heightOffset)
     const worldPos = Matrix4.multiplyByPoint(tileset.modelMatrix, lifted, new Cartesian3())
 
-    billboards.add({
+    const billboard = billboards.add({
+      id: marker.id,
       position: worldPos,
-      image: getPin(color),
+      width: ICON_PIXEL_WIDTH,
+      height: ICON_PIXEL_HEIGHT,
       verticalOrigin: VerticalOrigin.BOTTOM,
       horizontalOrigin: HorizontalOrigin.CENTER,
+      // Shrink a little with distance so dense areas stay readable.
+      scaleByDistance: new NearFarScalar(200, 1.0, maxVisibilityDistance, 0.6),
       disableDepthTestDistance: Number.POSITIVE_INFINITY,
       distanceDisplayCondition: displayCondition,
     })
+    // Keyed by color so all graces of a color share one atlas entry.
+    billboard.setImage(`grace-${color}`, buildGraceIcon(color))
 
     labels.add({
       position: worldPos,
@@ -62,7 +68,7 @@ export function loadMarkers(viewer: Viewer, tileset: Cesium3DTileset): void {
       style: LabelStyle.FILL_AND_OUTLINE,
       verticalOrigin: VerticalOrigin.BOTTOM,
       horizontalOrigin: HorizontalOrigin.CENTER,
-      pixelOffset: new Cartesian2(0, -56),
+      pixelOffset: new Cartesian2(0, -ICON_PIXEL_HEIGHT - 4),
       disableDepthTestDistance: Number.POSITIVE_INFINITY,
       distanceDisplayCondition: displayCondition,
     })
