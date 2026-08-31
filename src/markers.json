@@ -2784,8 +2784,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-078",
-      "label": "Grace 078",
+      "id": "outer-wall-phantom-tree-sog",
+      "label": "Outer Wall Phantom Tree",
       "localPosition": {
         "x": 85.04,
         "y": 4442.71,
@@ -2938,8 +2938,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-090",
-      "label": "Grace 090",
+      "id": "divine-bridge-sog",
+      "label": "Divine Bridge",
       "localPosition": {
         "x": 483.67,
         "y": 4325.7,
@@ -2993,8 +2993,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-096",
-      "label": "Grace 096",
+      "id": "west-capital-rampart",
+      "label": "West Capital Rampart",
       "localPosition": {
         "x": 703.64,
         "y": 4339.36,
@@ -3026,8 +3026,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-099",
-      "label": "Grace 099",
+      "id": "erdtree-sanctuary-sog",
+      "label": "Erdtree Sanctuary",
       "localPosition": {
         "x": 786.08,
         "y": 4229.34,
@@ -3037,8 +3037,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-100",
-      "label": "Grace 100",
+      "id": "elden-throne-sog",
+      "label": "Elden Throne",
       "localPosition": {
         "x": 957.91,
         "y": 4201.78,
@@ -3224,8 +3224,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-117",
-      "label": "Grace 117",
+      "id": "aeonia-swamp-shore-sog",
+      "label": "Aeonia Swamp Shore",
       "localPosition": {
         "x": 1657.81,
         "y": 1122.09,
@@ -3246,8 +3246,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-119",
-      "label": "Grace 119",
+      "id": "caelid-catacombs-sog",
+      "label": "Caelid Catacombs",
       "localPosition": {
         "x": 1774.49,
         "y": 709.62,
@@ -3290,8 +3290,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-123",
-      "label": "Grace 123",
+      "id": "abandoned-cave-sog",
+      "label": "Abandoned Cave",
       "localPosition": {
         "x": 1816.04,
         "y": 1465.71,
@@ -3312,8 +3312,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-125",
-      "label": "Grace 125",
+      "id": "heart-of-aeonia-sog",
+      "label": "Heart of Aeonia",
       "localPosition": {
         "x": 1884.67,
         "y": 1197.61,
@@ -3334,8 +3334,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-127",
-      "label": "Grace 127",
+      "id": "southern-aeonia-swamp-bank-sog",
+      "label": "Southern Aeonia Swamp Bank",
       "localPosition": {
         "x": 1925.81,
         "y": 957.01,
@@ -3378,8 +3378,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-131",
-      "label": "Grace 131",
+      "id": "sellia-under-stair-sog",
+      "label": "Sellia Under-Stair",
       "localPosition": {
         "x": 2029.08,
         "y": 1355.64,
