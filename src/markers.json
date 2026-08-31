@@ -3004,8 +3004,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-097",
-      "label": "Grace 097",
+      "id": "summonwater-village-outskirts-sog",
+      "label": "Summonwater Village Outskirts",
       "localPosition": {
         "x": 764.33,
         "y": 1376.77,
@@ -3103,8 +3103,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-106",
-      "label": "Grace 106",
+      "id": "gael-tunnel-sog",
+      "label": "Gael Tunnel",
       "localPosition": {
         "x": 1211.16,
         "y": 1479.7,
@@ -3114,8 +3114,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-107",
-      "label": "Grace 107",
+      "id": "rotview-balcony-sog",
+      "label": "Rotview Balcony",
       "localPosition": {
         "x": 1245.57,
         "y": 1596.53,
@@ -3125,8 +3125,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-108",
-      "label": "Grace 108",
+      "id": "fort-gael-north-sog",
+      "label": "Fort Gael North",
       "localPosition": {
         "x": 1286.71,
         "y": 1335.32,
@@ -3180,8 +3180,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-113",
-      "label": "Grace 113",
+      "id": "caelum-ruins-sog",
+      "label": "Caelem Ruins",
       "localPosition": {
         "x": 1520.54,
         "y": 1637.67,
@@ -3213,8 +3213,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-116",
-      "label": "Grace 116",
+      "id": "smoldering-wall-sog",
+      "label": "Smoldering Wall",
       "localPosition": {
         "x": 1589.18,
         "y": 1410.81,
@@ -3257,8 +3257,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-120",
-      "label": "Grace 120",
+      "id": "deep-siofra-well-sog",
+      "label": "Deep Siofra Well",
       "localPosition": {
         "x": 1781.74,
         "y": 1651.31,
@@ -3477,8 +3477,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-140",
-      "label": "Grace 140",
+      "id": "dragonbarrow-fork-sog",
+      "label": "Dragonbarrow Fork",
       "localPosition": {
         "x": 2256.08,
         "y": 1795.47,
@@ -3488,8 +3488,19 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-141",
-      "label": "Grace 141",
+      "id": "fort-faroth-sog",
+      "label": "Fort Faroth",
+      "localPosition": {
+        "x": 2290.33,
+        "y": 1486.14,
+        "z": 238.53
+      },
+      "heightOffset": 0,
+      "color": "#7dd3ff"
+    },
+    {
+      "id": "sellia-hideaway-sog",
+      "label": "Sellia Hideaway",
       "localPosition": {
         "x": 2290.33,
         "y": 1486.14,
@@ -3543,8 +3554,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-146",
-      "label": "Grace 146",
+      "id": "dragonbarrow-cave-sog",
+      "label": "Dragonbarrow Cave",
       "localPosition": {
         "x": 2427.91,
         "y": 1761.04,
@@ -3631,8 +3642,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-155",
-      "label": "Grace 155",
+      "id": "war-dead-catacombs-sog",
+      "label": "War-Dead Catacombs",
       "localPosition": {
         "x": 2730.38,
         "y": 1815.91,
