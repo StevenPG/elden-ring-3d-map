@@ -18,7 +18,7 @@ import markersData from '../markers.json'
 import config from '../config.json'
 import { buildGraceIcon, GRACE_ICON_HEIGHT, GRACE_ICON_WIDTH } from './graceIcon'
 
-const ICON_SCALE = 0.5
+const ICON_SCALE = 0.6
 const ICON_PIXEL_WIDTH = GRACE_ICON_WIDTH * ICON_SCALE
 const ICON_PIXEL_HEIGHT = GRACE_ICON_HEIGHT * ICON_SCALE
 

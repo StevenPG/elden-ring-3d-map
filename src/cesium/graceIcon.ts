@@ -1,7 +1,7 @@
 import { Color } from 'cesium'
 
-const ICON_WIDTH = 96
-const ICON_HEIGHT = 208
+const ICON_WIDTH = 48
+const ICON_HEIGHT = 104
 const SUPERSAMPLE = 2
 
 const iconCache = new Map<string, HTMLCanvasElement>()
@@ -56,10 +56,10 @@ function drawBeam(ctx: CanvasRenderingContext2D, baseY: number, color: Color): v
   const centerX = ICON_WIDTH / 2
   const core = lighten(color, 0.75)
   const bands: Array<{ halfWidth: number; alpha: number; tint: Color }> = [
-    { halfWidth: 11, alpha: 0.18, tint: color },
-    { halfWidth: 6, alpha: 0.3, tint: color },
-    { halfWidth: 3, alpha: 0.55, tint: lighten(color, 0.35) },
-    { halfWidth: 1.25, alpha: 0.95, tint: core },
+    { halfWidth: 7, alpha: 0.22, tint: color },
+    { halfWidth: 3.5, alpha: 0.45, tint: color },
+    { halfWidth: 2, alpha: 0.75, tint: lighten(color, 0.35) },
+    { halfWidth: 1, alpha: 1, tint: core },
   ]
 
   for (const band of bands) {
@@ -74,49 +74,9 @@ function drawBeam(ctx: CanvasRenderingContext2D, baseY: number, color: Color): v
 }
 
 /**
- * The cluster of golden strands the beam rises from: tapered curves fanning
- * out from the centre, each one brightest where it meets the beam.
- */
-function drawStrands(ctx: CanvasRenderingContext2D, baseY: number, color: Color): void {
-  const centerX = ICON_WIDTH / 2
-  const strands = [
-    { spread: -26, lift: -4, arc: 14 },
-    { spread: -18, lift: -13, arc: 11 },
-    { spread: -9, lift: -20, arc: 7 },
-    { spread: 0, lift: -24, arc: 0 },
-    { spread: 9, lift: -20, arc: -7 },
-    { spread: 18, lift: -13, arc: -11 },
-    { spread: 26, lift: -4, arc: -14 },
-  ]
-
-  ctx.lineCap = 'round'
-  for (const strand of strands) {
-    const tipX = centerX + strand.spread
-    const tipY = baseY + strand.lift
-    const controlX = centerX + strand.spread * 0.35 + strand.arc * 0.25
-    const controlY = baseY + strand.lift * 1.5 - 6
-
-    // Glow pass, then a thin bright pass on top of it.
-    for (const pass of [
-      { width: 5, alpha: 0.28, tint: color },
-      { width: 2, alpha: 0.95, tint: lighten(color, 0.5) },
-    ]) {
-      ctx.strokeStyle = rgba(pass.tint, pass.alpha)
-      ctx.lineWidth = pass.width
-      ctx.beginPath()
-      ctx.moveTo(centerX, baseY + 2)
-      ctx.quadraticCurveTo(controlX, controlY, tipX, tipY)
-      ctx.stroke()
-    }
-
-    drawBloom(ctx, tipX, tipY, 5, 5, lighten(color, 0.4), 0.7)
-  }
-}
-
-/**
- * Builds a Site of Grace style billboard: a golden beam of light rising out of
- * a glowing cluster of strands. The returned canvas is anchored at the bottom
- * centre, so it should be drawn with VerticalOrigin.BOTTOM.
+ * Builds a Site of Grace style billboard: a golden beam of light rising from
+ * the ground. The returned canvas is anchored at the bottom centre, so it
+ * should be drawn with VerticalOrigin.BOTTOM.
  */
 export function buildGraceIcon(cssColor: string): HTMLCanvasElement {
   const cached = iconCache.get(cssColor)
@@ -131,14 +91,12 @@ export function buildGraceIcon(cssColor: string): HTMLCanvasElement {
   ctx.scale(SUPERSAMPLE, SUPERSAMPLE)
 
   const color = Color.fromCssColorString(cssColor)
-  const baseY = ICON_HEIGHT - 26
+  const baseY = ICON_HEIGHT - 4
 
-  // Ground bloom under the strands, then the beam, then the strands on top.
-  drawBloom(ctx, ICON_WIDTH / 2, baseY + 6, 40, 14, color, 0.45)
+  // A bloom where the beam meets the ground, then the beam over it.
+  drawBloom(ctx, ICON_WIDTH / 2, baseY, 16, 8, color, 0.6)
   drawBeam(ctx, baseY, color)
-  drawBloom(ctx, ICON_WIDTH / 2, baseY - 6, 22, 22, lighten(color, 0.3), 0.55)
-  drawStrands(ctx, baseY, color)
-  drawBloom(ctx, ICON_WIDTH / 2, baseY - 2, 9, 9, lighten(color, 0.85), 0.9)
+  drawBloom(ctx, ICON_WIDTH / 2, baseY - 4, 6, 6, lighten(color, 0.7), 0.85)
 
   iconCache.set(cssColor, canvas)
   return canvas
