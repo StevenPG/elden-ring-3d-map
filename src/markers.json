@@ -34,67 +34,12 @@
       "color": "#ffd97d"
     },
     {
-      "id": "waypoint-ruins-cellar-sog",
-      "label": "Waypoint Ruins Cellar",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "artists-shack-limgrave-sog",
-      "label": "Artist's Shack",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "third-church-of-marika-sog",
-      "label": "Third Church of Marika",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "fort-haight-west-sog",
-      "label": "Fort Haight West",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "agheel-lake-south-sog",
       "label": "Agheel Lake South",
       "localPosition": {
         "x": 592.49,
         "y": 384.79,
         "z": 84.78
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "agheel-lake-north-sog",
-      "label": "Agheel Lake North",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -114,9 +59,9 @@
       "id": "cathedral-of-dragon-communion-sog",
       "label": "Cathedral of Dragon Communion",
       "localPosition": {
-        "x": 1701.15,
-        "y": 1053.27,
-        "z": -124.83
+        "x": 1690.5,
+        "y": 740.91,
+        "z": 127.76
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -133,243 +78,12 @@
       "color": "#ffd97d"
     },
     {
-      "id": "mistwood-outskirts-sog",
-      "label": "Mistwood Outskirts",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "murkwater-coast-sog",
-      "label": "Murkwater Coast",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "summonwater-village-outskirts-sog",
-      "label": "Summonwater Village Outskirts",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "stormfoot-catacombs-sog",
-      "label": "Stormfoot Catacombs",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "murkwater-catacombs-sog",
-      "label": "Murkwater Catacombs",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "groveside-cave-sog",
-      "label": "Groveside Cave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "gaol-cave-sog",
       "label": "Gaol Cave",
       "localPosition": {
         "x": 1351.21,
         "y": 1171.39,
         "z": 92.09
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "coastal-cave-sog",
-      "label": "Coastal Cave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "murkwater-cave-sog",
-      "label": "Murkwater Cave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "highroad-cave-sog",
-      "label": "Highroad Cave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "limgrave-tunnels-sog",
-      "label": "Limgrave Tunnels",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "cave-of-knowledge-sog",
-      "label": "Cave of Knowledge",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "stranded-graveyard-sog",
-      "label": "Stranded Graveyard",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "stormhill-shack-sog",
-      "label": "Stormhill Shack",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "castleward-tunnel-sog",
-      "label": "Castleward Tunnel",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "margit-the-fell-omen-sog",
-      "label": "Margit, the Fell Omen",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "warmasters-shack-sog",
-      "label": "Warmaster's Shack",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "saintsbridge-sog",
-      "label": "Saintsbridge",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "deathtouched-catacombs-sog",
-      "label": "Deathtouched Catacombs",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "caelid-catacombs-sog",
-      "label": "Caelid Catacombs",
-      "localPosition": {
-        "x": 1701.15,
-        "y": 1053.27,
-        "z": -124.83
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "limgrave-tower-bridge-sog",
-      "label": "Limgrave Tower Bridge",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "divine-tower-of-limgrave-sog",
-      "label": "Divine Tower of Limgrave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -485,17 +199,6 @@
       "color": "#ffd97d"
     },
     {
-      "id": "behind-the-castle-sog",
-      "label": "Behind the Castle",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "beside-the-rampart-gaol-sog",
       "label": "Beside the Rampart Gaol",
       "localPosition": {
@@ -524,17 +227,6 @@
         "x": 866.15,
         "y": 89.54,
         "z": 51.15
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "tombsward-catacombs-sog",
-      "label": "Tombsward Catacombs",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -573,254 +265,12 @@
       "color": "#ffd97d"
     },
     {
-      "id": "stormveil-main-gate-sog",
-      "label": "Stormveil Main Gate",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "gateside-chamber-sog",
-      "label": "Gateside Chamber",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "stormveil-cliffside-sog",
-      "label": "Stormveil Cliffside",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "rampart-tower-sog",
-      "label": "Rampart Tower",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "liftside-chamber-sog",
-      "label": "Liftside Chamber",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "secluded-cell-sog",
-      "label": "Secluded Cell",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "godrick-the-grafted-sog",
-      "label": "Godrick the Grafted",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "lake-facing-cliffs-sog",
-      "label": "Lake-Facing Cliffs",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "liurnia-lake-shore-sog",
-      "label": "Liurnia Lake Shore",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "laskyar-ruins-sog",
-      "label": "Laskyar Ruins",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "scenic-isle-sog",
       "label": "Scenic Isle",
       "localPosition": {
         "x": -1249.81,
         "y": 2187.65,
         "z": 249.98
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "academy-gate-town-sog",
-      "label": "Academy Gate Town",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "south-raya-lucaria-gate-sog",
-      "label": "South Raya Lucaria Gate",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "main-academy-gate-sog",
-      "label": "Main Academy Gate",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "liurnia-highway-south-sog",
-      "label": "Liurnia Highway South",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "liurnia-highway-north-sog",
-      "label": "Liurnia Highway North",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "gate-town-bridge-sog",
-      "label": "Gate Town Bridge",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "artists-shack-liurnia-sog",
-      "label": "Artist's Shack",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "eastern-liurnia-lake-shore-sog",
-      "label": "Eastern Liurnia Lake Shore",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "eastern-tableland-sog",
-      "label": "Eastern Tableland",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "church-of-vows-sog",
-      "label": "Church of Vows",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "ruined-labyrinth-sog",
-      "label": "Ruined Labyrinth",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "mausoleum-compound-sog",
-      "label": "Mausoleum Compound",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -870,17 +320,6 @@
       "color": "#ffd97d"
     },
     {
-      "id": "village-of-the-albinaurics-sog",
-      "label": "Village of the Albinaurics",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "converted-tower-sog",
       "label": "Converted Tower",
       "localPosition": {
@@ -903,193 +342,6 @@
       "color": "#ffd97d"
     },
     {
-      "id": "temple-quarter-sog",
-      "label": "Temple Quarter",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "crystalline-woods-sog",
-      "label": "Crystalline Woods",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "foot-of-the-four-belfries-sog",
-      "label": "Foot of the Four Belfries",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "the-four-belfries-sog",
-      "label": "The Four Belfries",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "sorcerers-isle-sog",
-      "label": "Sorcerer's Isle",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "gate-town-north-sog",
-      "label": "Gate Town North",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "northern-liurnia-lake-shore-sog",
-      "label": "Northern Liurnia Lake Shore",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "road-to-the-manor-sog",
-      "label": "Road to the Manor",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "main-caria-manor-gate-sog",
-      "label": "Main Caria Manor Gate",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "manor-upper-level-sog",
-      "label": "Manor Upper Level",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "manor-lower-level-sog",
-      "label": "Manor Lower Level",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "royal-moongazing-grounds-sog",
-      "label": "Royal Moongazing Grounds",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "rannis-rise-sog",
-      "label": "Ranni's Rise",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "behind-caria-manor-sog",
-      "label": "Behind Caria Manor",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "the-ravine-sog",
-      "label": "The Ravine",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "ravine-veiled-village-sog",
-      "label": "Ravine-Veiled Village",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "cliffbottom-catacombs-sog",
-      "label": "Cliffbottom Catacombs",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "roads-end-catacombs-sog",
       "label": "Road's End Catacombs",
       "localPosition": {
@@ -1101,166 +353,12 @@
       "color": "#ffd97d"
     },
     {
-      "id": "black-knife-catacombs-sog",
-      "label": "Black Knife Catacombs",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "stillwater-cave-sog",
-      "label": "Stillwater Cave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "lakeside-crystal-cave-sog",
       "label": "Lakeside Crystal Cave",
       "localPosition": {
         "x": -1264.69,
         "y": 1963.85,
         "z": 242.76
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "academy-crystal-cave-sog",
-      "label": "Academy Crystal Cave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "raya-lucaria-crystal-tunnel-sog",
-      "label": "Raya Lucaria Crystal Tunnel",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "study-hall-entrance-sog",
-      "label": "Study Hall Entrance",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "liurnia-tower-bridge-sog",
-      "label": "Liurnia Tower Bridge",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "divine-tower-of-liurnia-sog",
-      "label": "Divine Tower of Liurnia",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "east-raya-lucaria-gate-sog",
-      "label": "East Raya Lucaria Gate",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "bellum-church-sog",
-      "label": "Bellum Church",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "grand-lift-of-dectus-sog",
-      "label": "Grand Lift of Dectus",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "church-of-inhibition-sog",
-      "label": "Church of Inhibition",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "ruin-strewn-precipice-sog",
-      "label": "Ruin-Strewn Precipice",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "ruin-strewn-precipice-overlook-sog",
-      "label": "Ruin-Strewn Precipice Overlook",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "magma-wyrm-sog",
-      "label": "Magma Wyrm",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -1299,94 +397,6 @@
       "color": "#ffd97d"
     },
     {
-      "id": "church-of-the-cuckoo-sog",
-      "label": "Church of the Cuckoo",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "schoolhouse-classroom-sog",
-      "label": "Schoolhouse Classroom",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "debate-parlor-sog",
-      "label": "Debate Parlor",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "raya-lucaria-grand-library-sog",
-      "label": "Raya Lucaria Grand Library",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "abandoned-coffin-sog",
-      "label": "Abandoned Coffin",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "erdtree-gazing-hill-sog",
-      "label": "Erdtree-Gazing Hill",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "altus-highway-junction-sog",
-      "label": "Altus Highway Junction",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "bower-of-bounty-sog",
-      "label": "Bower of Bounty",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "windmill-village-sog",
       "label": "Windmill Village",
       "localPosition": {
@@ -1420,375 +430,12 @@
       "color": "#ffd97d"
     },
     {
-      "id": "rampartside-path-sog",
-      "label": "Rampartside Path",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "old-altus-tunnel-sog",
-      "label": "Old Altus Tunnel",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "altus-tunnel-sog",
-      "label": "Altus Tunnel",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "bridge-of-iniquity-sog",
-      "label": "Bridge of Iniquity",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "first-mt-gelmir-campsite-sog",
-      "label": "First Mt. Gelmir Campsite",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "ninth-mt-gelmir-campsite-sog",
-      "label": "Ninth Mt. Gelmir Campsite",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "road-of-iniquity-sog",
-      "label": "Road of Iniquity",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "seethewater-river-sog",
-      "label": "Seethewater River",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "seethewater-terminus-sog",
-      "label": "Seethewater Terminus",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "craftsmans-shack-sog",
-      "label": "Craftsman's Shack",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "primeval-sorcerer-azur-sog",
-      "label": "Primeval Sorcerer Azur",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "gelmir-heros-grave-sog",
-      "label": "Gelmir Hero's Grave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "seethewater-cave-sog",
-      "label": "Seethewater Cave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "volcano-cave-sog",
-      "label": "Volcano Cave",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "outer-wall-phantom-tree-sog",
-      "label": "Outer Wall Phantom Tree",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "minor-erdtree-church-sog",
-      "label": "Minor Erdtree Church",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "sealed-tunnel-sog",
-      "label": "Sealed Tunnel",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "volcano-manor-sog",
-      "label": "Volcano Manor",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "volcano-manor-2-sog",
-      "label": "Volcano Manor",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "prison-town-church-sog",
-      "label": "Prison Town Church",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "temple-of-eiglay-sog",
-      "label": "Temple of Eiglay",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "guest-hall-sog",
-      "label": "Guest Hall",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "audience-pathway-sog",
-      "label": "Audience Pathway",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "divine-bridge-sog",
-      "label": "Divine Bridge",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "smoldering-church-sog",
-      "label": "Smoldering Church",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "rotview-balcony-sog",
-      "label": "Rotview Balcony",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "caelem-ruins-sog",
-      "label": "Caelem Ruins",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "smoldering-wall-sog",
-      "label": "Smoldering Wall",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "caelid-highway-south-sog",
       "label": "Caelid Highway South",
       "localPosition": {
         "x": 1598.24,
         "y": 965.82,
         "z": 105.18
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "sellia-backstreets-sog",
-      "label": "Sellia Backstreets",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "sellia-under-stair-sog",
-      "label": "Sellia Under-Stair",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "chair-crypt-of-sellia-sog",
-      "label": "Chair-Crypt of Sellia",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "church-of-the-plague-sog",
-      "label": "Church of the Plague",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "deep-siofra-well-sog",
-      "label": "Deep Siofra Well",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -1838,116 +485,6 @@
       "color": "#ffd97d"
     },
     {
-      "id": "sellia-crystal-tunnel-sog",
-      "label": "Sellia Crystal Tunnel",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "heart-of-aeonia-sog",
-      "label": "Heart of Aeonia",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "greyolls-dragonbarrow-sog",
-      "label": "Greyoll's Dragonbarrow",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "dragonbarrow-west-sog",
-      "label": "Dragonbarrow West",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "fort-faroth-sog",
-      "label": "Fort Faroth",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "dragonbarrow-fork-sog",
-      "label": "Dragonbarrow Fork",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "lennes-rise-sog",
-      "label": "Lenne's Rise",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "farum-greatbridge-sog",
-      "label": "Farum Greatbridge",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "bestial-sanctum-sog",
-      "label": "Bestial Sanctum",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "sellia-hideaway-sog",
-      "label": "Sellia Hideaway",
-      "localPosition": {
-        "x": -1,
-        "y": -1,
-        "z": -1
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "foot-of-the-four-belfries-sog",
       "label": "Foot of the Four Belfries",
       "localPosition": {
@@ -1956,7 +493,7 @@
         "z": 261.42
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-002",
@@ -1967,7 +504,7 @@
         "z": 303.71
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "the-four-belfries-sog",
@@ -1978,7 +515,7 @@
         "z": 376.84
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "northern-liurnia-lake-shore-sog",
@@ -1989,7 +526,7 @@
         "z": 257.03
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "rannis-rise-sog",
@@ -2000,7 +537,7 @@
         "z": 468.68
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "temple-quarter-sog",
@@ -2011,7 +548,7 @@
         "z": 237.56
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "road-to-the-manor-sog",
@@ -2022,7 +559,7 @@
         "z": 273.47
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "sorcerers-isle-sog",
@@ -2033,7 +570,7 @@
         "z": 240.07
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-009",
@@ -2044,7 +581,7 @@
         "z": 367.93
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "manor-lower-level-sog",
@@ -2055,7 +592,7 @@
         "z": 371.25
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "royal-moongazing-grounds-sog",
@@ -2066,7 +603,7 @@
         "z": 431.0
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "main-caria-manor-gate-sog",
@@ -2077,7 +614,7 @@
         "z": 314.95
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "east-gate-bridge-trestle-sog",
@@ -2088,7 +625,7 @@
         "z": 290.42
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "manor-upper-level-sog",
@@ -2099,7 +636,7 @@
         "z": 418.13
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "south-raya-lucaria-gate-sog",
@@ -2110,7 +647,7 @@
         "z": 238.65
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-017",
@@ -2121,7 +658,7 @@
         "z": 957.08
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "behind-caria-manor-sog",
@@ -2132,18 +669,18 @@
         "z": 396.07
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-019",
-      "label": "Grace 019",
+      "id": "east-raya-lucaria-gate-sog",
+      "label": "East Raya Lucaria Gate",
       "localPosition": {
         "x": -1489.36,
         "y": 3618.49,
         "z": 321.29
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "gate-town-north-sog",
@@ -2154,7 +691,7 @@
         "z": 239.89
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "unsightly-catacombs-sog",
@@ -2165,18 +702,18 @@
         "z": 674.23
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-022",
-      "label": "Grace 022",
+      "id": "bellum-church-sog",
+      "label": "Bellum Church",
       "localPosition": {
         "x": -1393.03,
         "y": 3879.65,
         "z": 321.82
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-023",
@@ -2187,7 +724,7 @@
         "z": 1014.25
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "craftsmans-shack-sog",
@@ -2198,7 +735,7 @@
         "z": 877.26
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-025",
@@ -2209,18 +746,18 @@
         "z": 1010.26
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-026",
-      "label": "Grace 026",
+      "id": "raya-lucaria-crystal-tunnel-sog",
+      "label": "Raya Lucaria Crystal Tunnel",
       "localPosition": {
-        "x": -1276.33,
-        "y": 3487.8,
-        "z": 365.94
+        "x": -1275.61,
+        "y": 3460.14,
+        "z": 247.43
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-027",
@@ -2231,29 +768,29 @@
         "z": 1044.76
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-028",
-      "label": "Grace 028",
+      "id": "ruin-strewn-precipice-overlook-sog",
+      "label": "Ruin-Strewn Precipice Overlook",
       "localPosition": {
-        "x": -1214.13,
-        "y": 4340.12,
-        "z": 661.34
+        "x": -1100.22,
+        "y": 4351.20,
+        "z": 608.22
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-029",
-      "label": "Grace 029",
+      "id": "church-of-vows-sog",
+      "label": "Church of Vows",
       "localPosition": {
         "x": -1187.08,
         "y": 3219.69,
         "z": 398.38
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "academy-gate-town-sog",
@@ -2264,7 +801,7 @@
         "z": 237.56
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-031",
@@ -2275,18 +812,18 @@
         "z": 845.74
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-032",
-      "label": "Grace 032",
+      "id": "mausoleum-compound-sog",
+      "label": "Mausoleum Compound",
       "localPosition": {
         "x": -1090.7,
         "y": 3590.83,
         "z": 394.4
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "seethewater-river-sog",
@@ -2297,18 +834,18 @@
         "z": 801.55
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-034",
-      "label": "Grace 034",
+      "id": "church-of-inhibition-sog",
+      "label": "Church of Inhibition",
       "localPosition": {
         "x": -1083.69,
         "y": 3927.64,
         "z": 494.1
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "sages-cave-sog",
@@ -2319,7 +856,7 @@
         "z": 794.7
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-036",
@@ -2330,29 +867,29 @@
         "z": 900.91
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-037",
-      "label": "Grace 037",
+      "id": "ravine-veiled-village-sog",
+      "label": "Ravine-Veiled Village",
       "localPosition": {
         "x": -1028.55,
         "y": 4298.8,
         "z": 238.13
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-038",
-      "label": "Grace 038",
+      "id": "ruined-labyrinth-sog",
+      "label": "Ruined Labyrinth",
       "localPosition": {
         "x": -1001.39,
         "y": 3467.07,
         "z": 372.21
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "laskyar-ruins-sog",
@@ -2363,7 +900,7 @@
         "z": 237.56
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-040",
@@ -2374,18 +911,18 @@
         "z": 893.28
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-041",
-      "label": "Grace 041",
+      "id": "eastern-liurnia-lake-shore-sog",
+      "label": "Eastern Liurnia Lake Shore",
       "localPosition": {
         "x": -919.12,
         "y": 2924.02,
         "z": 239.31
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "erdtree-gazing-hill-sog",
@@ -2396,7 +933,7 @@
         "z": 761.32
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "grand-lift-of-dectus-sog",
@@ -2407,7 +944,7 @@
         "z": 751.96
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "liurnia-lake-shore-sog",
@@ -2418,7 +955,7 @@
         "z": 238.22
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-045",
@@ -2429,7 +966,7 @@
         "z": 862.34
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "altus-plateau-sog",
@@ -2440,18 +977,18 @@
         "z": 759.94
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-047",
-      "label": "Grace 047",
+      "id": "frenzied-flame-village-outskirts-sog",
+      "label": "Frenzied Flame Village Outskirts",
       "localPosition": {
         "x": -843.17,
         "y": 3776.33,
         "z": 449.18
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "gate-town-bridge-sog",
@@ -2462,29 +999,29 @@
         "z": 257.82
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-049",
-      "label": "Grace 049",
+      "id": "eastern-tableland-sog",
+      "label": "Eastern Tableland",
       "localPosition": {
         "x": -822.8,
         "y": 3143.94,
         "z": 285.86
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-050",
-      "label": "Grace 050",
+      "id": "artist-shack-sog",
+      "label": "Artist's Shack",
       "localPosition": {
         "x": -809.18,
         "y": 2827.74,
         "z": 318.09
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-051",
@@ -2495,7 +1032,7 @@
         "z": 808.06
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-052",
@@ -2506,29 +1043,29 @@
         "z": 812.6
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-053",
-      "label": "Grace 053",
+      "id": "study-hall-entrance-sog",
+      "label": "Study Hall Entrance",
       "localPosition": {
-        "x": -740.38,
-        "y": 2985.81,
-        "z": 254.25
+        "x": -676.46,
+        "y": 2790.32,
+        "z": 272.31
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-054",
-      "label": "Grace 054",
+      "id": "black-knife-catacombs-sog",
+      "label": "Black Knife Catacombs",
       "localPosition": {
         "x": -719.42,
         "y": 3824.39,
         "z": 455.38
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-055",
@@ -2539,7 +1076,7 @@
         "z": 824.93
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "liurnia-highway-north-sog",
@@ -2550,7 +1087,7 @@
         "z": 271.94
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "lake-facing-cliffs-sog",
@@ -2561,7 +1098,7 @@
         "z": 334.11
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-058",
@@ -2572,18 +1109,18 @@
         "z": 716.99
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
-      "id": "detected-059",
-      "label": "Grace 059",
+      "id": "liurnia-tower-bridge-sog",
+      "label": "Liurnia Tower Bridge",
       "localPosition": {
         "x": -609.87,
         "y": 2745.18,
         "z": 395.5
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "liurnia-highway-south-sog",
@@ -2594,7 +1131,7 @@
         "z": 297.76
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "jarburg-sog",
@@ -2605,7 +1142,7 @@
         "z": 219.66
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "altus-highway-junction-sog",
@@ -2616,7 +1153,7 @@
         "z": 761.08
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "cliffbottom-catacombs-sog",
@@ -2627,7 +1164,7 @@
         "z": 235.45
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "liftside-chamber-sog",
@@ -2638,7 +1175,7 @@
         "z": 388.74
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "rampart-tower-sog",
@@ -2649,7 +1186,7 @@
         "z": 381.42
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "stormveil-cliffside-sog",
@@ -2660,7 +1197,7 @@
         "z": 283.93
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "bower-of-bounty-sog",
@@ -2671,7 +1208,7 @@
         "z": 749.89
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "sainted-heros-grave-sog",
@@ -2682,7 +1219,7 @@
         "z": 883.37
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "limgrave-tower-bridge-sog",
@@ -2693,7 +1230,7 @@
         "z": 312.54
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "margit-the-fell-omen-sog",
@@ -2704,7 +1241,7 @@
         "z": 275.34
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-071",
@@ -2715,7 +1252,7 @@
         "z": 701.36
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "altus-tunnel-sog",
@@ -2726,7 +1263,7 @@
         "z": 886.35
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "coastal-cave-sog",
@@ -2737,7 +1274,7 @@
         "z": 45.87
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "perfumers-grotto-sog",
@@ -2748,7 +1285,7 @@
         "z": 867.2
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "stormfoot-catacombs-sog",
@@ -2759,7 +1296,7 @@
         "z": 140.22
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "rampartside-path-sog",
@@ -2770,7 +1307,7 @@
         "z": 904.01
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "groveside-cave-sog",
@@ -2781,7 +1318,7 @@
         "z": 149.65
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "outer-wall-phantom-tree-sog",
@@ -2792,7 +1329,7 @@
         "z": 849.82
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "warmasters-shack-sog",
@@ -2803,7 +1340,7 @@
         "z": 189.11
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "stormhill-shack-sog",
@@ -2814,7 +1351,7 @@
         "z": 204.01
       },
       "heightOffset": 1,
-      "color": "#7dd300"
+      "color": "#ffd97d"
     },
     {
       "id": "limgrave-tunnels-sog",
@@ -2825,7 +1362,7 @@
         "z": 93.19
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "agheel-lake-north-sog",
@@ -2836,7 +1373,7 @@
         "z": 93.25
       },
       "heightOffset": 1,
-      "color": "#7dd300"
+      "color": "#ffd97d"
     },
     {
       "id": "minor-erdtree-church",
@@ -2847,7 +1384,7 @@
         "z": 910.2
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "tombsward-catacombs-sog",
@@ -2858,7 +1395,7 @@
         "z": 63.09
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "deathtouched-catacombs",
@@ -2869,7 +1406,7 @@
         "z": 213.7
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "outer-wall-battleground-sog",
@@ -2880,7 +1417,7 @@
         "z": 948.99
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "divine-tower-of-west-altus",
@@ -2891,7 +1428,7 @@
         "z": 914.12
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "divine-tower-of-west-altus-gate",
@@ -2902,7 +1439,7 @@
         "z": 616.28
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "hermit-merchants-shack-sog",
@@ -2913,7 +1450,7 @@
         "z": 994.6
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "saintsbridge",
@@ -2924,7 +1461,7 @@
         "z": 157.69
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "murkwater-cave-sog",
@@ -2935,7 +1472,7 @@
         "z": 85.68
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "divine-bridge-sog",
@@ -2946,7 +1483,7 @@
         "z": 1116.82
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "murkwater-coast",
@@ -2957,7 +1494,7 @@
         "z": 87.24
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "artists-shack-limgrave-sog",
@@ -2968,7 +1505,7 @@
         "z": 94.77
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "waypoint-ruins-cellar-sog",
@@ -2979,7 +1516,7 @@
         "z": 92.39
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "divine-tower-of-limgrave",
@@ -2990,7 +1527,7 @@
         "z": 528.11
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "west-capital-rampart",
@@ -3001,7 +1538,7 @@
         "z": 1072.63
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "summonwater-village-outskirts-sog",
@@ -3012,7 +1549,7 @@
         "z": 101.19
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "mistwood-outskirts-sog",
@@ -3023,7 +1560,7 @@
         "z": 25.66
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "erdtree-sanctuary-sog",
@@ -3034,7 +1571,7 @@
         "z": 1160.81
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "elden-throne-sog",
@@ -3045,7 +1582,7 @@
         "z": 1152.88
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "fort-haight-west-sog",
@@ -3056,7 +1593,7 @@
         "z": 19.42
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "auriza-side-tomb",
@@ -3067,7 +1604,7 @@
         "z": 963.74
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "third-church-of-marika-sog",
@@ -3078,7 +1615,7 @@
         "z": 7.52
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-104",
@@ -3089,7 +1626,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     },
     {
       "id": "smoldering-church",
@@ -3100,7 +1637,7 @@
         "z": 151.85
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "gael-tunnel-sog",
@@ -3111,7 +1648,7 @@
         "z": 170.32
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "rotview-balcony-sog",
@@ -3122,7 +1659,7 @@
         "z": 171.08
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "fort-gael-north-sog",
@@ -3133,7 +1670,7 @@
         "z": 122.65
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "minor-erdtree-catacombs",
@@ -3144,7 +1681,7 @@
         "z": 173.24
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "apostate-derelict",
@@ -3155,7 +1692,7 @@
         "z": 1290.94
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "yelough-anix-tunnel",
@@ -3166,7 +1703,7 @@
         "z": 1261.71
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "forbidden-lands",
@@ -3177,7 +1714,7 @@
         "z": 988.21
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "caelum-ruins-sog",
@@ -3188,7 +1725,7 @@
         "z": 163.05
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "divine-tower-of-east-altus",
@@ -3199,7 +1736,7 @@
         "z": 1419.86
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "isolated-merchants-shack-dragonbarrow",
@@ -3210,7 +1747,7 @@
         "z": 224.19
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "smoldering-wall-sog",
@@ -3221,7 +1758,7 @@
         "z": 130.73
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "aeonia-swamp-shore-sog",
@@ -3232,7 +1769,7 @@
         "z": 71.54
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "ordina-liturgical-town",
@@ -3243,7 +1780,7 @@
         "z": 1286.26
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "caelid-catacombs-sog",
@@ -3254,7 +1791,7 @@
         "z": 54.28
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "deep-siofra-well-sog",
@@ -3265,7 +1802,7 @@
         "z": 114.34
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "hidden-path-to-the-haligtree",
@@ -3276,7 +1813,7 @@
         "z": 1334.36
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "inner-consecrated-snowfield",
@@ -3287,7 +1824,7 @@
         "z": 1267.17
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "abandoned-cave-sog",
@@ -3298,7 +1835,7 @@
         "z": 172.01
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "consecrated-snowfield",
@@ -3309,7 +1846,7 @@
         "z": 1318.44
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "heart-of-aeonia-sog",
@@ -3320,7 +1857,7 @@
         "z": 64.05
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "grand-lift-of-rold",
@@ -3331,7 +1868,7 @@
         "z": 1521.21
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "southern-aeonia-swamp-bank-sog",
@@ -3342,7 +1879,7 @@
         "z": 88.22
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "divine-tower-of-caelid-center",
@@ -3353,7 +1890,7 @@
         "z": 580.16
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-129",
@@ -3364,7 +1901,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-130",
@@ -3375,7 +1912,7 @@
         "z": 1559.62
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "sellia-under-stair-sog",
@@ -3386,7 +1923,7 @@
         "z": 71.19
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-132",
@@ -3397,7 +1934,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-133",
@@ -3408,7 +1945,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     },
     {
       "id": "cave-of-the-forlorn",
@@ -3419,7 +1956,7 @@
         "z": 1330.31
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "consecrated-snowfield-catacombs",
@@ -3430,7 +1967,7 @@
         "z": 1359.2
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-136",
@@ -3441,7 +1978,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-137",
@@ -3452,7 +1989,7 @@
         "z": 160.84
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-138",
@@ -3463,7 +2000,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-139",
@@ -3474,7 +2011,7 @@
         "z": 1576.91
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "dragonbarrow-fork-sog",
@@ -3485,7 +2022,7 @@
         "z": 154.31
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "fort-faroth-sog",
@@ -3496,7 +2033,7 @@
         "z": 252.48
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "sellia-hideaway-sog",
@@ -3507,7 +2044,7 @@
         "z": 238.53
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "church-of-repose",
@@ -3518,7 +2055,7 @@
         "z": 1802.37
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "bestial-sanctum",
@@ -3529,7 +2066,7 @@
         "z": 408.76
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-144",
@@ -3540,7 +2077,7 @@
         "z": 1596.77
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "isolated-divine-tower",
@@ -3551,7 +2088,7 @@
         "z": 575.76
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "dragonbarrow-cave-sog",
@@ -3562,7 +2099,7 @@
         "z": 201.22
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-147",
@@ -3573,7 +2110,7 @@
         "z": 1606.43
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-148",
@@ -3584,7 +2121,7 @@
         "z": 1384.43
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-149",
@@ -3595,7 +2132,7 @@
         "z": 1671.31
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "farum-greatbridge",
@@ -3606,7 +2143,7 @@
         "z": 251.97
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "foot-of-the-forge",
@@ -3617,7 +2154,7 @@
         "z": 1801.93
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-152",
@@ -3628,7 +2165,7 @@
         "z": 1707.93
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "whiteridge-road",
@@ -3639,7 +2176,7 @@
         "z": 1667.33
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "war-dead-catacombs-sog",
@@ -3650,7 +2187,7 @@
         "z": 79.05
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "freezing-lake",
@@ -3661,7 +2198,7 @@
         "z": 1627.61
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "fire-giant",
@@ -3672,7 +2209,7 @@
         "z": 1876.17
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "spiritcallers-cave",
@@ -3683,7 +2220,7 @@
         "z": 1659.18
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "first-church-of-marika",
@@ -3694,7 +2231,7 @@
         "z": 1625.44
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "forge-of-the-giants",
@@ -3705,7 +2242,7 @@
         "z": 1967.28
       },
       "heightOffset": 0,
-      "color": "#7dd3ff"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-161",
@@ -3716,7 +2253,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-162",
@@ -3727,7 +2264,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     },
     {
       "id": "detected-163",
@@ -3738,7 +2275,7 @@
         "z": 80.0
       },
       "heightOffset": 0,
-      "color": "#ff8a8a"
+      "color": "#ffd97d"
     }
   ]
 }
