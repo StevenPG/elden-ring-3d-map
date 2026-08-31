@@ -1948,8 +1948,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-001",
-      "label": "Grace 001",
+      "id": "foot-of-the-four-belfries-sog",
+      "label": "Foot of the Four Belfries",
       "localPosition": {
         "x": -2231.91,
         "y": 3144.5,
@@ -1970,8 +1970,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-003",
-      "label": "Grace 003",
+      "id": "the-four-belfries-sog",
+      "label": "The Four Belfries",
       "localPosition": {
         "x": -2108.09,
         "y": 3371.28,
@@ -2003,8 +2003,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-006",
-      "label": "Grace 006",
+      "id": "temple-quarter-sog",
+      "label": "Temple Quarter",
       "localPosition": {
         "x": -1957.09,
         "y": 2814.45,
@@ -2086,17 +2086,6 @@
         "x": -1633.81,
         "y": 3364.22,
         "z": 290.42
-      },
-      "heightOffset": 0,
-      "color": "#7dd3ff"
-    },
-    {
-      "id": "detected-014",
-      "label": "Grace 014",
-      "localPosition": {
-        "x": -1634.22,
-        "y": 2326.29,
-        "z": 237.56
       },
       "heightOffset": 0,
       "color": "#7dd3ff"
