@@ -1,7 +1,7 @@
 import { Color } from 'cesium'
 
 const ICON_WIDTH = 48
-const ICON_HEIGHT = 104
+const ICON_HEIGHT = 84
 const SUPERSAMPLE = 2
 
 const iconCache = new Map<string, HTMLCanvasElement>()

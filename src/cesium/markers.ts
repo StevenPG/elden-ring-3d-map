@@ -68,7 +68,8 @@ export function loadMarkers(viewer: Viewer, tileset: Cesium3DTileset): void {
       style: LabelStyle.FILL_AND_OUTLINE,
       verticalOrigin: VerticalOrigin.BOTTOM,
       horizontalOrigin: HorizontalOrigin.CENTER,
-      pixelOffset: new Cartesian2(0, -ICON_PIXEL_HEIGHT - 4),
+      // Sit just below the faded top of the beam rather than clear of it.
+      pixelOffset: new Cartesian2(0, -ICON_PIXEL_HEIGHT + 8),
       disableDepthTestDistance: Number.POSITIVE_INFINITY,
       distanceDisplayCondition: displayCondition,
     })
