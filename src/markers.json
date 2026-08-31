@@ -1981,8 +1981,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-004",
-      "label": "Grace 004",
+      "id": "northern-liurnia-lake-shore-sog",
+      "label": "Northern Liurnia Lake Shore",
       "localPosition": {
         "x": -1970.48,
         "y": 3728.66,
@@ -1992,8 +1992,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-005",
-      "label": "Grace 005",
+      "id": "rannis-rise-sog",
+      "label": "Ranni's Rise",
       "localPosition": {
         "x": -1963.4,
         "y": 4251.05,
@@ -2014,8 +2014,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-007",
-      "label": "Grace 007",
+      "id": "road-to-the-manor-sog",
+      "label": "Road to the Manor",
       "localPosition": {
         "x": -1867.3,
         "y": 3900.46,
@@ -2025,8 +2025,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-008",
-      "label": "Grace 008",
+      "id": "sorcerers-isle-sog",
+      "label": "Sorcerer's Isle",
       "localPosition": {
         "x": -1833.09,
         "y": 3501.77,
@@ -2047,8 +2047,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-010",
-      "label": "Grace 010",
+      "id": "manor-lower-level-sog",
+      "label": "Manor Lower Level",
       "localPosition": {
         "x": -1729.71,
         "y": 4195.97,
@@ -2058,8 +2058,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-011",
-      "label": "Grace 011",
+      "id": "royal-moongazing-grounds-sog",
+      "label": "Royal Moongazing Grounds",
       "localPosition": {
         "x": -1695.29,
         "y": 4326.56,
@@ -2069,8 +2069,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-012",
-      "label": "Grace 012",
+      "id": "main-caria-manor-gate-sog",
+      "label": "Main Caria Manor Gate",
       "localPosition": {
         "x": -1681.64,
         "y": 4085.97,
@@ -2080,8 +2080,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-013",
-      "label": "Grace 013",
+      "id": "east-gate-bridge-trestle-sog",
+      "label": "East Gate Bridge Trestle",
       "localPosition": {
         "x": -1633.81,
         "y": 3364.22,
@@ -2102,8 +2102,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-015",
-      "label": "Grace 015",
+      "id": "manor-upper-level-sog",
+      "label": "Manor Upper Level",
       "localPosition": {
         "x": -1551.0,
         "y": 4189.03,
@@ -2113,8 +2113,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-016",
-      "label": "Grace 016",
+      "id": "south-raya-lucaria-gate-sog",
+      "label": "South Raya Lucaria Gate",
       "localPosition": {
         "x": -1544.65,
         "y": 2869.27,
@@ -2135,8 +2135,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-018",
-      "label": "Grace 018",
+      "id": "behind-caria-manor-sog",
+      "label": "Behind Caria Manor",
       "localPosition": {
         "x": -1489.09,
         "y": 4292.11,
@@ -2157,8 +2157,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-020",
-      "label": "Grace 020",
+      "id": "gate-town-north-sog",
+      "label": "Gate Town North",
       "localPosition": {
         "x": -1475.83,
         "y": 3061.71,
@@ -2168,8 +2168,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-021",
-      "label": "Grace 021",
+      "id": "unsightly-catacombs-sog",
+      "label": "Unsightly Catacombs",
       "localPosition": {
         "x": -1433.97,
         "y": 4622.02,
@@ -2201,8 +2201,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-024",
-      "label": "Grace 024",
+      "id": "craftsmans-shack-sog",
+      "label": "Craftsman's Shack",
       "localPosition": {
         "x": -1296.46,
         "y": 4718.2,
@@ -2267,8 +2267,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-030",
-      "label": "Grace 030",
+      "id": "academy-gate-town-sog",
+      "label": "Academy Gate Town",
       "localPosition": {
         "x": -1187.32,
         "y": 2601.06,
@@ -2300,8 +2300,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-033",
-      "label": "Grace 033",
+      "id": "seethewater-river-sog",
+      "label": "Seethewater River",
       "localPosition": {
         "x": -1083.34,
         "y": 4807.48,
@@ -2322,8 +2322,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-035",
-      "label": "Grace 035",
+      "id": "sages-cave-sog",
+      "label": "Sage's Cave",
       "localPosition": {
         "x": -1062.77,
         "y": 4669.99,
@@ -2366,8 +2366,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-039",
-      "label": "Grace 039",
+      "id": "laskyar-ruins-sog",
+      "label": "Laskyar Ruins",
       "localPosition": {
         "x": -981.35,
         "y": 2002.97,
@@ -2399,8 +2399,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-042",
-      "label": "Grace 042",
+      "id": "erdtree-gazing-hill-sog",
+      "label": "Erdtree-Gazing Hill",
       "localPosition": {
         "x": -911.6,
         "y": 4559.95,
@@ -2410,8 +2410,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-043",
-      "label": "Grace 043",
+      "id": "grand-lift-of-dectus-sog",
+      "label": "Grand Lift of Dectus",
       "localPosition": {
         "x": -911.75,
         "y": 4175.03,
@@ -2421,8 +2421,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-044",
-      "label": "Grace 044",
+      "id": "liurnia-lake-shore-sog",
+      "label": "Liurnia Lake Shore",
       "localPosition": {
         "x": -857.71,
         "y": 1782.96,
@@ -2443,8 +2443,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-046",
-      "label": "Grace 046",
+      "id": "altus-plateau-sog",
+      "label": "Altus Plateau",
       "localPosition": {
         "x": -849.83,
         "y": 4319.35,
@@ -2465,8 +2465,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-048",
-      "label": "Grace 048",
+      "id": "gate-town-bridge-sog",
+      "label": "Gate Town Bridge",
       "localPosition": {
         "x": -836.82,
         "y": 2456.57,
@@ -2553,8 +2553,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-056",
-      "label": "Grace 056",
+      "id": "liurnia-highway-north-sog",
+      "label": "Liurnia Highway North",
       "localPosition": {
         "x": -637.6,
         "y": 2154.05,
@@ -2564,8 +2564,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-057",
-      "label": "Grace 057",
+      "id": "lake-facing-cliffs-sog",
+      "label": "Lake-Facing Cliffs",
       "localPosition": {
         "x": -637.82,
         "y": 1611.03,
@@ -2597,8 +2597,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-060",
-      "label": "Grace 060",
+      "id": "liurnia-highway-south-sog",
+      "label": "Liurnia Highway South",
       "localPosition": {
         "x": -603.37,
         "y": 1810.35,
@@ -2608,8 +2608,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-061",
-      "label": "Grace 061",
+      "id": "jarburg-sog",
+      "label": "Jarburg",
       "localPosition": {
         "x": -575.55,
         "y": 2628.31,
@@ -2619,8 +2619,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-062",
-      "label": "Grace 062",
+      "id": "altus-highway-junction-sog",
+      "label": "Altus Highway Junction",
       "localPosition": {
         "x": -540.44,
         "y": 4491.07,
@@ -2630,8 +2630,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-063",
-      "label": "Grace 063",
+      "id": "cliffbottom-catacombs-sog",
+      "label": "Cliffbottom Catacombs",
       "localPosition": {
         "x": -534.56,
         "y": 1989.04,
@@ -2641,8 +2641,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-064",
-      "label": "Grace 064",
+      "id": "liftside-chamber-sog",
+      "label": "Liftside Chamber",
       "localPosition": {
         "x": -527.93,
         "y": 1370.41,
@@ -2652,8 +2652,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-065",
-      "label": "Grace 065",
+      "id": "rampart-tower-sog",
+      "label": "Rampart Tower",
       "localPosition": {
         "x": -514.23,
         "y": 1246.67,
@@ -2663,8 +2663,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-066",
-      "label": "Grace 066",
+      "id": "stormveil-cliffside-sog",
+      "label": "Stormveil Cliffside",
       "localPosition": {
         "x": -459.3,
         "y": 1109.18,
@@ -2674,8 +2674,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-067",
-      "label": "Grace 067",
+      "id": "bower-of-bounty-sog",
+      "label": "Bower of Bounty",
       "localPosition": {
         "x": -375.31,
         "y": 4917.17,
@@ -2685,8 +2685,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-068",
-      "label": "Grace 068",
+      "id": "sainted-heros-grave-sog",
+      "label": "Sainted Hero's Grave",
       "localPosition": {
         "x": -341.01,
         "y": 4738.44,
@@ -2696,8 +2696,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-069",
-      "label": "Grace 069",
+      "id": "limgrave-tower-bridge-sog",
+      "label": "Limgrave Tower Bridge",
       "localPosition": {
         "x": -314.89,
         "y": 1260.34,
@@ -2707,8 +2707,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-070",
-      "label": "Grace 070",
+      "id": "margit-the-fell-omen-sog",
+      "label": "Margit, the Fell Omen",
       "localPosition": {
         "x": -280.58,
         "y": 1109.11,
@@ -2729,8 +2729,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-072",
-      "label": "Grace 072",
+      "id": "altus-tunnel-sog",
+      "label": "Altus Tunnel",
       "localPosition": {
         "x": -176.02,
         "y": 4779.62,
@@ -2751,8 +2751,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-074",
-      "label": "Grace 074",
+      "id": "perfumers-grotto-sog",
+      "label": "Perfumer's Grotto",
       "localPosition": {
         "x": -79.9,
         "y": 4497.76,
@@ -2762,8 +2762,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-075",
-      "label": "Grace 075",
+      "id": "stormfoot-catacombs-sog",
+      "label": "Stormfoot Catacombs",
       "localPosition": {
         "x": -74.46,
         "y": 889.07,
@@ -2773,8 +2773,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-076",
-      "label": "Grace 076",
+      "id": "rampartside-path-sog",
+      "label": "Rampartside Path",
       "localPosition": {
         "x": -38.56,
         "y": 4758.95,
@@ -2784,8 +2784,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-077",
-      "label": "Grace 077",
+      "id": "groveside-cave-sog",
+      "label": "Groveside Cave",
       "localPosition": {
         "x": 56.14,
         "y": 895.89,
@@ -2806,8 +2806,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-079",
-      "label": "Grace 079",
+      "id": "warmasters-shack-sog",
+      "label": "Warmaster's Shack",
       "localPosition": {
         "x": 118.15,
         "y": 1246.42,
@@ -2817,8 +2817,19 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-080",
-      "label": "Grace 080",
+      "id": "stormhill-shack-sog",
+      "label": "TODO STORMHILL SHACK",
+      "localPosition": {
+        "x": 118.15,
+        "y": 1246.42,
+        "z": 189.11
+      },
+      "heightOffset": 1,
+      "color": "#7dd300"
+    },
+    {
+      "id": "limgrave-tunnels-sog",
+      "label": "Limgrave Tunnels",
       "localPosition": {
         "x": 262.35,
         "y": 888.93,
@@ -2826,6 +2837,17 @@
       },
       "heightOffset": 0,
       "color": "#7dd3ff"
+    },
+    {
+      "id": "agheel-lake-north-sog",
+      "label": "TODO-AGHEEL-LAKE-NORTH",
+      "localPosition": {
+        "x": 262.45,
+        "y": 888.83,
+        "z": 93.19
+      },
+      "heightOffset": 1,
+      "color": "#7dd300"
     },
     {
       "id": "minor-erdtree-church",
@@ -2839,8 +2861,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-082",
-      "label": "Grace 082",
+      "id": "tombsward-catacombs-sog",
+      "label": "Tombsward Catacombs",
       "localPosition": {
         "x": 275.74,
         "y": -11.53,
@@ -2861,8 +2883,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-084",
-      "label": "Grace 084",
+      "id": "outer-wall-battleground-sog",
+      "label": "Outer Wall Battleground",
       "localPosition": {
         "x": 332.68,
         "y": 4910.02,
@@ -2894,8 +2916,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-087",
-      "label": "Grace 087",
+      "id": "hermit-merchants-shack-sog",
+      "label": "Hermit Merchant's Shack",
       "localPosition": {
         "x": 387.72,
         "y": 5019.98,
@@ -2916,8 +2938,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-089",
-      "label": "Grace 089",
+      "id": "murkwater-cave-sog",
+      "label": "Murkwater Cave",
       "localPosition": {
         "x": 461.72,
         "y": 964.47,
@@ -2949,19 +2971,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-092",
-      "label": "Grace 092",
-      "localPosition": {
-        "x": 612.73,
-        "y": 442.0,
-        "z": 74.98
-      },
-      "heightOffset": 0,
-      "color": "#7dd3ff"
-    },
-    {
-      "id": "detected-093",
-      "label": "Grace 093",
+      "id": "artists-shack-limgrave-sog",
+      "label": "Artist's Shack",
       "localPosition": {
         "x": 633.63,
         "y": 1143.11,
@@ -2971,8 +2982,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-094",
-      "label": "Grace 094",
+      "id": "waypoint-ruins-cellar-sog",
+      "label": "Waypoint Ruins Cellar",
       "localPosition": {
         "x": 660.94,
         "y": 682.56,
@@ -3015,8 +3026,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-098",
-      "label": "Grace 098",
+      "id": "mistwood-outskirts-sog",
+      "label": "Mistwood Outskirts",
       "localPosition": {
         "x": 764.18,
         "y": 1005.59,
@@ -3048,8 +3059,8 @@
       "color": "#7dd3ff"
     },
     {
-      "id": "detected-101",
-      "label": "Grace 101",
+      "id": "fort-haight-west-sog",
+      "label": "Fort Haight West",
       "localPosition": {
         "x": 1004.6,
         "y": 599.94,
