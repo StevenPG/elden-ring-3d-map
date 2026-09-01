@@ -496,17 +496,6 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-002",
-      "label": "Grace 002",
-      "localPosition": {
-        "x": -2190.93,
-        "y": 2470.86,
-        "z": 303.71
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
       "id": "the-four-belfries-sog",
       "label": "The Four Belfries",
       "localPosition": {
@@ -573,8 +562,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-009",
-      "label": "Grace 009",
+      "id": "church-of-the-cuckoo-sog",
+      "label": "Church of the Cuckoo",
       "localPosition": {
         "x": -1785.15,
         "y": 3054.96,
@@ -650,8 +639,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-017",
-      "label": "Grace 017",
+      "id": "guest-hall-sog",
+      "label": "Guest Hall",
       "localPosition": {
         "x": -1536.97,
         "y": 4903.89,
@@ -716,8 +705,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-023",
-      "label": "Grace 023",
+      "id": "temple-of-eiglay-sog",
+      "label": "Temple of Eiglay",
       "localPosition": {
         "x": -1330.77,
         "y": 4876.31,
@@ -738,8 +727,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-025",
-      "label": "Grace 025",
+      "id": "ninth-mt-gelmir-campsite-sog",
+      "label": "Ninth Mt. Gelmir Campsite",
       "localPosition": {
         "x": -1289.37,
         "y": 5274.97,
@@ -760,8 +749,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-027",
-      "label": "Grace 027",
+      "id": "volcano-cave-sog",
+      "label": "Volcano Cave",
       "localPosition": {
         "x": -1220.56,
         "y": 5460.53,
@@ -804,8 +793,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-031",
-      "label": "Grace 031",
+      "id": "seethewater-cave-sog",
+      "label": "Seethewater Cave",
       "localPosition": {
         "x": -1145.08,
         "y": 5130.56,
@@ -859,8 +848,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-036",
-      "label": "Grace 036",
+      "id": "gelmir-heros-grave-sog",
+      "label": "Gelmir Hero's Grave",
       "localPosition": {
         "x": -1048.89,
         "y": 5013.67,
@@ -903,12 +892,12 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-040",
-      "label": "Grace 040",
+      "id": "wyndham-catacombs-sog",
+      "label": "Wyndham Catacombs",
       "localPosition": {
-        "x": -973.34,
-        "y": 4869.3,
-        "z": 893.28
+        "x": -973.51,
+        "y": 4806.78,
+        "z": 825.10
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -958,8 +947,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-045",
-      "label": "Grace 045",
+      "id": "first-mt-gelmir-campsite-sog",
+      "label": "First Mt. Gelmir Campsite",
       "localPosition": {
         "x": -849.51,
         "y": 5116.7,
@@ -1024,19 +1013,19 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-051",
-      "label": "Grace 051",
+      "id": "old-altus-tunnel-sog",
+      "label": "Old Altus Tunnel",
       "localPosition": {
-        "x": -801.49,
-        "y": 4889.85,
-        "z": 808.06
+        "x": -800.26,
+        "y": 4893.22,
+        "z": 737.48
       },
       "heightOffset": 0,
       "color": "#ffd97d"
     },
     {
-      "id": "detected-052",
-      "label": "Grace 052",
+      "id": "bridge-of-iniquity-sog",
+      "label": "Bridge of Iniquity",
       "localPosition": {
         "x": -746.44,
         "y": 5041.05,
@@ -1068,8 +1057,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-055",
-      "label": "Grace 055",
+      "id": "castellans-hall-sog",
+      "label": "Castellan's Hall",
       "localPosition": {
         "x": -684.47,
         "y": 5302.22,
@@ -1101,8 +1090,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-058",
-      "label": "Grace 058",
+      "id": "shaded-castle-ramparts-sog",
+      "label": "Shaded Castle Ramparts",
       "localPosition": {
         "x": -608.9,
         "y": 5199.09,
@@ -1244,8 +1233,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-071",
-      "label": "Grace 071",
+      "id": "divine-tower-of-liurnia-sog",
+      "label": "Divine Tower of Liurnia",
       "localPosition": {
         "x": -224.92,
         "y": 2800.02,
@@ -1357,9 +1346,9 @@
       "id": "limgrave-tunnels-sog",
       "label": "Limgrave Tunnels",
       "localPosition": {
-        "x": 262.35,
-        "y": 888.93,
-        "z": 93.19
+        "x": 265.55,
+        "y": 870.90,
+        "z": 64.55
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -1613,17 +1602,6 @@
         "x": 1046.09,
         "y": 1232.31,
         "z": 7.52
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "detected-104",
-      "label": "Grace 104",
-      "localPosition": {
-        "x": 1081.57,
-        "y": 4029.89,
-        "z": 80.0
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -1893,19 +1871,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-129",
-      "label": "Grace 129",
-      "localPosition": {
-        "x": 2003.84,
-        "y": 7053.95,
-        "z": 80.0
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "detected-130",
-      "label": "Grace 130",
+      "id": "zamor-ruins-sog",
+      "label": "Zamor Ruins",
       "localPosition": {
         "x": 2003.06,
         "y": 5094.95,
@@ -1926,23 +1893,23 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-132",
-      "label": "Grace 132",
+      "id": "haligtree-canopy-sog",
+      "label": "Haligtree Canopy",
       "localPosition": {
-        "x": 2038.03,
-        "y": 6614.02,
-        "z": 80.0
+        "x": 2069.46,
+        "y": 7213.23,
+        "z": 621.85
       },
       "heightOffset": 0,
       "color": "#ffd97d"
     },
     {
-      "id": "detected-133",
-      "label": "Grace 133",
+      "id": "haligtree-promenade-sog",
+      "label": "Haligtree Promenade",
       "localPosition": {
-        "x": 2079.35,
-        "y": 6785.85,
-        "z": 80.0
+        "x": 2222.09,
+        "y": 7502.95,
+        "z": 433.09
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -1951,9 +1918,9 @@
       "id": "cave-of-the-forlorn",
       "label": "Cave of the Forlorn",
       "localPosition": {
-        "x": 2099.57,
-        "y": 5796.03,
-        "z": 1330.31
+        "x": 2118.76,
+        "y": 5791.25,
+        "z": 1256.59
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -1970,19 +1937,19 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-136",
-      "label": "Grace 136",
+      "id": "drainage-channel-sog",
+      "label": "Drainage Channel",
       "localPosition": {
-        "x": 2113.8,
-        "y": 6998.92,
-        "z": 80.0
+        "x": 2162.15,
+        "y": 7649.79,
+        "z": 193.75
       },
       "heightOffset": 0,
       "color": "#ffd97d"
     },
     {
-      "id": "detected-137",
-      "label": "Grace 137",
+      "id": "church-of-the-plague-sog",
+      "label": "Church of the Plague",
       "localPosition": {
         "x": 2187.15,
         "y": 1286.85,
@@ -1992,23 +1959,34 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-138",
-      "label": "Grace 138",
+      "id": "haligtree-roots-sog",
+      "label": "Haligtree Roots",
       "localPosition": {
-        "x": 2203.1,
-        "y": 6868.28,
-        "z": 80.0
+        "x": 2125.19,
+        "y": 7711.30,
+        "z": 198.11
       },
       "heightOffset": 0,
       "color": "#ffd97d"
     },
     {
-      "id": "detected-139",
-      "label": "Grace 139",
+      "id": "giants-mountaintop-catacombs-sog",
+      "label": "Giants' Mountaintop Catacombs",
       "localPosition": {
         "x": 2202.42,
         "y": 5136.11,
         "z": 1576.91
+      },
+      "heightOffset": 0,
+      "color": "#ffd97d"
+    },
+    {
+      "id": "giant-conquering-heros-grave-sog",
+      "label": "Giant-Conquering Hero's Grave",
+      "localPosition": {
+        "x": 2092.96,
+        "y": 5113.65,
+        "z": 1652.10
       },
       "heightOffset": 0,
       "color": "#ffd97d"
@@ -2069,8 +2047,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-144",
-      "label": "Grace 144",
+      "id": "castle-sol-main-gate-sog",
+      "label": "Castle Sol Main Gate",
       "localPosition": {
         "x": 2409.0,
         "y": 6070.85,
@@ -2102,8 +2080,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-147",
-      "label": "Grace 147",
+      "id": "ancient-snow-valley-ruins-sog",
+      "label": "Ancient Snow Valley Ruins",
       "localPosition": {
         "x": 2443.22,
         "y": 5706.53,
@@ -2113,19 +2091,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-148",
-      "label": "Grace 148",
-      "localPosition": {
-        "x": 2512.13,
-        "y": 6139.55,
-        "z": 1384.43
-      },
-      "heightOffset": 0,
-      "color": "#ffd97d"
-    },
-    {
-      "id": "detected-149",
-      "label": "Grace 149",
+      "id": "snow-valley-ruins-overlook-sog",
+      "label": "Snow Valley Ruins Overlook",
       "localPosition": {
         "x": 2539.56,
         "y": 5974.57,
@@ -2157,8 +2124,8 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-152",
-      "label": "Grace 152",
+      "id": "giants-gravepost-sog",
+      "label": "Giant's Gravepost",
       "localPosition": {
         "x": 2635.53,
         "y": 5314.66,
@@ -2245,34 +2212,34 @@
       "color": "#ffd97d"
     },
     {
-      "id": "detected-161",
-      "label": "Grace 161",
+      "id": "crumbling-beast-grave-sog",
+      "label": "Crumbling Beast Grave",
       "localPosition": {
-        "x": 4799.96,
-        "y": 3320.43,
-        "z": 80.0
+        "x": 4789.95,
+        "y": 3494.46,
+        "z": 1985.47
       },
       "heightOffset": 0,
       "color": "#ffd97d"
     },
     {
-      "id": "detected-162",
-      "label": "Grace 162",
+      "id": "crumbling-beast-grave-depths-sog",
+      "label": "Crumbling Beast Grave Depths",
       "localPosition": {
-        "x": 5006.15,
-        "y": 3272.23,
-        "z": 80.0
+        "x": 4580.77,
+        "y": 3558.14,
+        "z": 1940.76
       },
       "heightOffset": 0,
       "color": "#ffd97d"
     },
     {
-      "id": "detected-163",
-      "label": "Grace 163",
+      "id": "beside-the-great-bridge-sog",
+      "label": "Beside the Great Bridge",
       "localPosition": {
-        "x": 5129.96,
-        "y": 3478.39,
-        "z": 80.0
+        "x": 4734.83,
+        "y": 3852.21,
+        "z": 1931.30
       },
       "heightOffset": 0,
       "color": "#ffd97d"
